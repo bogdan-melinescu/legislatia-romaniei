@@ -1457,7 +1457,10 @@ Articolul 153
 
 Prescripţia răspunderii penale
 (1) Prescripţia înlătură răspunderea penală.
-(2) Prescripţia nu înlătură răspunderea penală în cazul infracţiunilor de genocid, contra umanităţii şi de război.
+(2) Prescripţia nu înlătură răspunderea penală în cazul: 
+a) infracţiunilor de genocid, contra umanităţii şi de război, indiferent de data la care au fost comise; 
+b) infracţiunilor prevăzute la art. 188 şi 189 şi al infracţiunilor intenţionate urmate de moartea victimei.
+(3) Prescripţia nu înlătură răspunderea penală nici în cazul infracţiunilor prevăzute la alin. (2) lit. b) pentru care nu s-a împlinit termenul de prescripţie, generală sau specială, la data intrării în vigoare a acestei dispoziţii.
 
 Articolul 154
 
@@ -1529,7 +1532,10 @@ Articolul 161
 
 Prescripţia executării pedepsei
 (1) Prescripţia înlătură executarea pedepsei principale.
-(2) Prescripţia nu înlătură executarea pedepselor principale pronunţate pentru infracţiunile de genocid, contra umanităţii şi de război.
+(2) Prescripţia nu înlătură executarea pedepselor principale în cazul: 
+a) infracţiunilor de genocid, contra umanităţii şi de război, indiferent de data la care au fost comise; 
+b) infracţiunilor prevăzute la art. 188 şi 189 şi al infracţiunilor intenţionate urmate de moartea victimei.
+(3) Prescripţia nu înlătură executarea pedepselor principale nici în cazul infracţiunilor prevăzute la alin. (2) lit. b) pentru care, la data intrării în vigoare a acestei dispoziţii, nu s-a împlinit termenul de prescripţie a executării.
 
 Articolul 162
 
