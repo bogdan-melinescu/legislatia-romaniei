@@ -183,7 +183,7 @@ Articolul 9
 Personalitatea legii penale
 (1) Legea penală română se aplică infracţiunilor săvârşite în afara teritoriului ţării de către un cetăţean român sau de o persoană juridică română, dacă pedeapsa prevăzută de legea română este detenţiunea pe viaţă ori închisoarea mai mare de 10 ani.
 (2) În celelalte cazuri, legea penală română se aplică infracţiunilor săvârşite în afara teritoriului ţării de către un cetăţean român sau de o persoană juridică română, dacă fapta este prevăzută ca infracţiune şi de legea penală a ţării unde a fost săvârşită ori dacă a fost comisă într-un loc care nu este supus jurisdicţiei niciunui stat.
-(3) Punerea în mişcare a acţiunii penale se face cu autorizarea prealabilă a procurorului general al parchetului de pe lângă curtea de apel în a cărei rază teritorială se află parchetul mai întâi sesizat sau, după caz, a procurorului general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.
+(3) Punerea în mişcare a acţiunii penale se face cu autorizarea prealabilă a procurorului general al parchetului de pe lângă curtea de apel în a cărei rază teritorială se află parchetul mai întâi sesizat sau, după caz, a procurorului general al parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie. Termenul în care procurorul poate emite autorizarea este de până la 30 de zile de la data solicitării autorizării şi poate fi prelungit, în condiţiile legii, fără ca durata totală să depăşească 180 de zile.
 
 Articolul 10
 
@@ -565,7 +565,7 @@ Articolul 61
 Stabilirea amenzii
 (1) Amenda constă în suma de bani pe care condamnatul este obligat să o plătească statului.
 (2) Cuantumul amenzii se stabileşte prin sistemul zilelor-amendă. Suma corespunzătoare unei zile-amendă, cuprinsă între 10 lei şi 500 lei, se înmulţeşte cu numărul zilelor-amendă, care este cuprins între 30 de zile şi 400 de zile.
-(3) Instanţa stabileşte numărul zilelor-amendă potrivit criteriilor generale de individualizare a pedepsei. Cuantumul sumei corespunzătoare unei zile-amendă se stabileşte ţinând seama şi de obligaţiile legale ale condamnatului faţă de persoanele aflate în întreţinerea sa.
+(3) Instanţa stabileşte numărul zilelor-amendă potrivit criteriilor generale de individualizare a pedepsei. Cuantumul sumei corespunzătoare unei zile-amendă se stabileşte ţinând seama de situaţia materială a condamnatului şi de obligaţiile legale ale condamnatului faţă de persoanele aflate în întreţinerea sa.
 (4) Limitele speciale ale zilelor-amendă sunt cuprinse între:
 a) 60 şi 180 de zile-amendă, când legea prevede pentru infracţiunea săvârşită numai pedeapsa amenzii;
 b) 120 şi 240 de zile-amendă, când legea prevede pedeapsa amenzii alternativ cu pedeapsa închisorii de cel mult doi ani;
@@ -596,7 +596,7 @@ Executarea pedepsei amenzii prin prestarea unei munci neremunerate în folosul c
 (4) Executarea muncii în folosul comunităţii dispusă în condiţiile alin. (1) încetează prin plata amenzii corespunzătoare zilelor-amendă rămase neexecutate.
 (5) Instanţa înlocuieşte zilele-amendă neexecutate prin muncă în folosul comunităţii cu un număr corespunzător de zile cu închisoare, dacă:
 a) persoana condamnată nu execută obligaţia de muncă în folosul comunităţii în condiţiile stabilite de instanţă;
-b) persoana condamnată săvârşeşte o nouă infracţiune descoperită înainte de executarea integrală a obligaţiei de muncă în folosul comunităţii. Zilele-amendă neexecutate prin muncă în folosul comunităţii la data comiterii noii infracţiuni, înlocuite cu închisoarea, se adaugă la pedeapsa pentru noua infracţiune.
+b) persoana condamnată săvârşeşte o nouă infracţiune descoperită înainte de executarea integrală a obligaţiei de muncă în folosul comunităţii. Zilele-amendă neexecutate prin muncă în folosul comunităţii la data condamnării definitive pentru noua infracţiune, înlocuite cu închisoarea, se adaugă la pedeapsa pentru noua infracţiune.
 (6) Dacă persoana condamnată, aflată în situaţia prevăzută în alin. (1), nu îşi dă consimţământul la prestarea unei munci neremunerate în folosul comunităţii, amenda neexecutată se înlocuieşte cu pedeapsa închisorii conform art. 63.
 
 Capitolul III Pedeapsa accesorie şi pedepsele complementare
@@ -608,16 +608,10 @@ Secţiunea 1 Pedeapsa accesorie
 Articolul 65
 
 Conţinutul şi modul de executare a pedepsei accesorii a interzicerii exercitării unor drepturi
-(1) Pedeapsa accesorie constă în interzicerea exercitării drepturilor prevăzute în art. 66 alin. (1) lit. a), lit. b) şi lit. d)-n), a căror exercitare a fost interzisă de instanţă ca pedeapsă complementară.
-(2) În cazul pedepsei detenţiunii pe viaţă, pedeapsa accesorie constă în interzicerea de drept a exercitării următoarelor drepturi:
-a) dreptul de a fi ales în autorităţile publice sau în orice alte funcţii publice;
-b) dreptul de a ocupa o funcţie care implică exerciţiul autorităţii de stat;
-c) dreptul străinului de a se afla pe teritoriul României;
-d) dreptul de a alege;
-e) drepturile părinteşti;
-f) dreptul de a fi tutore sau curator.
+(1) Pedeapsa accesorie constă în interzicerea exercitării drepturilor prevăzute la art. 66 alin. (1) lit. a), b) şi d)-o), a căror exercitare a fost interzisă de instanţă ca pedeapsă complementară.
+(2) În cazul detenţiunii pe viaţă, pedeapsa accesorie constă în interzicerea de către instanţă a exercitării drepturilor prevăzute la art. 66 alin. (1) lit. a)-o) sau a unora dintre acestea.
 (3) Pedeapsa accesorie a interzicerii exercitării unor drepturi se execută din momentul rămânerii definitive a hotărârii de condamnare şi până când pedeapsa principală privativă de libertate a fost executată sau considerată ca executată.
-(4) În cazul detenţiunii pe viaţă, pedeapsa accesorie prevăzută în alin. (2) lit. c) se pune în executare la data liberării condiţionate sau după ce pedeapsa a fost considerată ca executată.
+(4) În cazul detenţiunii pe viaţă, pedeapsa accesorie având conţinutul prevăzut la art. 66 alin. (1) lit. c) se pune în executare la data liberării condiţionate sau după ce pedeapsa a fost considerată ca executată.
 
 Secţiunea a 2-a Pedepsele complementare
 
@@ -730,6 +724,7 @@ Circumstanţe atenuante
 a) săvârşirea infracţiunii sub stăpânirea unei puternice tulburări sau emoţii, determinată de o provocare din partea persoanei vătămate, produsă prin violenţă, printr-o atingere gravă a demnităţii persoanei sau printr-o altă acţiune ilicită gravă;
 b) depăşirea limitelor legitimei apărări;
 c) depăşirea limitelor stării de necesitate.
+d) acoperirea integrală a prejudiciului material cauzat prin infracţiune, în cursul urmăririi penale sau al judecăţii, până la primul termen de judecată, dacă făptuitorul nu a mai beneficiat de această circumstanţă într-un interval de 5 ani anterior comiterii faptei. Circumstanţa atenuantă nu se aplică în cazul săvârşirii următoarelor infracţiuni: contra persoanei, de furt calificat, tâlhărie, piraterie, fraude comise prin sisteme informatice şi mijloace de plată electronice, ultraj, ultraj judiciar, purtare abuzivă, infracţiuni contra siguranţei publice, infracţiuni contra sănătăţii publice, infracţiuni contra libertăţii religioase şi respectului datorat persoanelor decedate, contra securităţii naţionale, contra capacităţii de luptă a forţelor armate, infracţiunilor de genocid, contra umanităţii şi de război, a infracţiunilor privind frontiera de stat a României, a infracţiunilor la legislaţia privind prevenirea şi combaterea terorismului, a infracţiunilor de corupţie, infracţiunilor asimilate infracţiunilor de corupţie, a celor împotriva intereselor financiare ale Uniunii Europene, a infracţiunilor privitoare la nerespectarea regimului materiilor explozive, materialelor nucleare sau al altor materii radioactive, privind regimul juridic al drogurilor, privind regimul juridic al precursorilor de droguri, a celor privind spălarea banilor, privind activităţile aeronautice civile şi cele care pot pune în pericol siguranţa zborurilor şi securitatea aeronautică, privind protecţia martorilor, privind interzicerea organizaţiilor şi simbolurilor cu caracter fascist, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni contra păcii şi omenirii, a celor privind traficul de organe, ţesuturi sau celule de origine umană, privind prevenirea şi combaterea pornografiei şi a celor la regimul adopţiilor.
 (2) Pot constitui circumstanţe atenuante judiciare:
 a) eforturile depuse de infractor pentru înlăturarea sau diminuarea consecinţelor infracţiunii;
 b) împrejurările legate de fapta comisă, care diminuează gravitatea infracţiunii sau periculozitatea infractorului.
@@ -780,7 +775,7 @@ b) în raport de persoana infractorului, de conduita avută anterior săvârşir
 a) infractorul a mai suferit anterior o condamnare, cu excepţia cazurilor prevăzute în art. 42 lit. a) şi lit. b) sau pentru care a intervenit reabilitarea ori s-a împlinit termenul de reabilitare;
 b) faţă de acelaşi infractor s-a mai dispus renunţarea la aplicarea pedepsei în ultimii 2 ani anteriori datei comiterii infracţiunii pentru care este judecat;
 c) infractorul s-a sustras de la urmărire penală ori judecată sau a încercat zădărnicirea aflării adevărului ori a identificării şi tragerii la răspundere penală a autorului sau a participanţilor;
-d) pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea mai mare de 3 ani.
+d) pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea mai mare de 5 ani.
 (3) În caz de concurs de infracţiuni, renunţarea la aplicarea pedepsei se poate dispune dacă pentru fiecare infracţiune concurentă sunt îndeplinite condiţiile prevăzute în alin. (1) şi alin. (2).
 
 Articolul 81
@@ -792,9 +787,7 @@ Avertismentul
 
 Articolul 82
 
-Efectele renunţării la aplicarea pedepsei
-(1) Persoana faţă de care s-a dispus renunţarea la aplicarea pedepsei nu este supusă niciunei decăderi, interdicţii sau incapacităţi ce ar putea decurge din infracţiunea săvârşită.
-(2) Renunţarea la aplicarea pedepsei nu produce efecte asupra executării măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărâre.
+Anularea şi efectele renunţării la aplicarea pedepsei (1) Persoana faţă de care s-a dispus renunţarea la aplicarea pedepsei nu este supusă niciunei decăderi, interdicţii sau incapacităţi ce ar putea decurge din infracţiunea săvârşită. (2) Renunţarea la aplicarea pedepsei nu produce efecte asupra executării măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărâre. (3) Dacă în termen de 2 ani de la rămânerea definitivă a hotărârii prin care s-a dispus renunţarea la aplicarea pedepsei se descoperă că persoana faţă de care s-a luat această măsură săvârşise anterior rămânerii definitive a hotărârii o altă infracţiune, pentru care i s-a stabilit o pedeapsă chiar după expirarea acestui termen, renunţarea la aplicarea pedepsei se anulează şi se stabileşte pedeapsa pentru infracţiunea care a atras iniţial renunţarea la aplicarea pedepsei, aplicându-se apoi, după caz, dispoziţiile privitoare la concursul de infracţiuni, recidivă sau pluralitate intermediară.
 
 Secţiunea a 4-a Amânarea aplicării pedepsei
 
@@ -809,7 +802,7 @@ c) infractorul şi-a manifestat acordul de a presta o muncă neremunerată în f
 d) în raport de persoana infractorului, de conduita avută anterior săvârşirii infracţiunii, de eforturile depuse de acesta pentru înlăturarea sau diminuarea consecinţelor infracţiunii, precum şi de posibilităţile sale de îndreptare, instanţa apreciază că aplicarea imediată a unei pedepse nu este necesară, dar se impune supravegherea conduitei sale pentru o perioadă determinată.
 (2) Nu se poate dispune amânarea aplicării pedepsei dacă pedeapsa prevăzută de lege pentru infracţiunea săvârşită este de 7 ani sau mai mare sau dacă infractorul s-a sustras de la urmărire penală ori judecată sau a încercat zădărnicirea aflării adevărului ori a identificării şi tragerii la răspundere penală a autorului sau a participanţilor.
 (3) Amânarea aplicării pedepsei închisorii atrage şi amânarea aplicării amenzii care însoţeşte pedeapsa închisorii în condiţiile art. 62.
-(4) Este obligatorie prezentarea motivelor pe care s-a întemeiat condamnarea, precum şi a celor ce au determinat amânarea aplicării pedepsei şi atenţionarea infractorului asupra conduitei sale viitoare şi a consecinţelor la care se expune dacă va mai comite infracţiuni sau nu va respecta măsurile de supraveghere ori nu va executa obligaţiile ce îi revin pe durata termenului de supraveghere.
+(4) Sunt obligatorii prezentarea motivelor care au determinat amânarea aplicării pedepsei şi atenţionarea infractorului asupra conduitei sale viitoare şi a consecinţelor la care se expune dacă va mai comite infracţiuni sau nu va respecta măsurile de supraveghere ori nu va executa obligaţiile ce îi revin pe durata termenului de supraveghere.
 
 Articolul 84
 
@@ -837,8 +830,8 @@ g) să nu conducă anumite vehicule stabilite de instanţă;
 h) să nu deţină, să nu folosească şi să nu poarte nicio categorie de arme;
 i) să nu părăsească teritoriul României fără acordul instanţei;
 j) să nu ocupe sau să nu exercite funcţia, profesia, meseria ori activitatea de care s-a folosit pentru săvârşirea infracţiunii.
-(3) Pentru stabilirea conţinutului obligaţiilor prevăzute în alin. (2) lit. a)-c), instanţa va consulta serviciul de probaţiune, care este obligat să formuleze recomandări în acest sens.
-(4) Când stabileşte obligaţia prevăzută în alin. (2) lit. e), instanţa individualizează, în concret, conţinutul acestei obligaţii, ţinând seama de împrejurările cauzei.
+(3) Pentru stabilirea obligaţiei prevăzute la alin. (2) lit. b), instanţa va consulta informaţiile puse la dispoziţie periodic de către serviciul de probaţiune cu privire la posibilităţile concrete de executare existente la nivelul serviciului de probaţiune şi la nivelul instituţiilor din comunitate.
+(4) Când stabileşte obligaţia prevăzută la alin. (2) lit. e)-g), instanţa individualizează, în concret, conţinutul acestei obligaţii, ţinând seama de împrejurările cauzei.
 (5) Persoana supravegheată trebuie să îndeplinească integral obligaţiile civile stabilite prin hotărâre, cel mai târziu cu 3 luni înainte de expirarea termenului de supraveghere.
 
 Articolul 86
@@ -918,7 +911,7 @@ b) să frecventeze unul sau mai multe programe de reintegrare socială derulate 
 c) să se supună măsurilor de control, tratament sau îngrijire medicală;
 d) să nu părăsească teritoriul României, fără acordul instanţei.
 (3) Pe parcursul termenului de supraveghere, condamnatul va presta o muncă neremunerată în folosul comunităţii pe o perioadă cuprinsă între 60 şi 120 de zile, în condiţiile stabilite de instanţă, afară de cazul în care, din cauza stării de sănătate, nu poate presta această muncă. Numărul zilnic de ore se stabileşte prin legea de executare a pedepselor.
-(4) Pentru stabilirea conţinutului obligaţiilor prevăzute în alin. (2) lit. a) şi lit. b), precum şi în alin. (3), instanţa va consulta serviciul de probaţiune, care este obligat să formuleze recomandări în acest sens.
+(4) Pentru stabilirea conţinutului obligaţiei prevăzute la alin. (3), instanţa va consulta informaţiile puse la dispoziţie periodic de către serviciul de probaţiune cu privire la posibilităţile concrete de executare existente la nivelul serviciului de probaţiune şi la nivelul instituţiilor din comunitate.
 (5) Condamnatul trebuie să îndeplinească integral obligaţiile civile stabilite prin hotărârea de condamnare, cel mai târziu cu 3 luni înainte de expirarea termenului de supraveghere.
 
 Articolul 94
@@ -957,7 +950,7 @@ Anularea suspendării executării pedepsei sub supraveghere
 Articolul 98
 
 Efectele suspendării executării pedepsei sub supraveghere
-(1) Dacă până la expirarea termenului de supraveghere condamnatul nu a săvârşit o nouă infracţiune, nu s-a dispus revocarea suspendării executării pedepsei sub supraveghere şi nu s-a descoperit o cauză de anulare, pedeapsa se consideră executată.
+(1) În cazul în care condamnatul nu a săvârşit o nouă infracţiune descoperită până la expirarea termenului de supraveghere, nu s-a dispus revocarea suspendării executării pedepsei sub supraveghere şi nu s-a descoperit o cauză de anulare, pedeapsa se consideră executată.
 (2) Suspendarea executării pedepsei sub supraveghere nu produce efecte asupra măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărârea de condamnare.
 
 Secţiunea a 6-a Liberarea condiţionată
@@ -1006,9 +999,9 @@ e) să nu comunice cu victima sau cu membri de familie ai acesteia, cu participa
 f) să nu conducă anumite vehicule stabilite de instanţă;
 g) să nu deţină, să nu folosească şi să nu poarte nicio categorie de arme.
 (3) Obligaţiile prevăzute în alin. (2) lit. c)-g) pot fi impuse în măsura în care nu au fost aplicate în conţinutul pedepsei complementare a interzicerii exercitării unor drepturi.
-(4) Când stabileşte obligaţia prevăzută în alin. (2) lit. e), instanţa individualizează, în concret, conţinutul acestei obligaţii, ţinând seama de împrejurările cauzei.
+(4) Când stabileşte obligaţia prevăzută la alin. (2) lit. d)-f), instanţa individualizează, în concret, conţinutul acestei obligaţii, ţinând seama de împrejurările cauzei.
 (5) Măsurile de supraveghere şi obligaţiile prevăzute în alin. (2) lit. a) şi lit. b) se execută din momentul acordării liberării, pe o perioadă egală cu o treime din durata termenului de supraveghere, dar nu mai mult de 2 ani, iar obligaţiile prevăzute în alin. (2) lit. c)-g) se execută pe toată durata termenului de supraveghere.
-(6) Pentru stabilirea conţinutului obligaţiilor prevăzute în alin. (2) lit. a) şi lit. b), instanţa va consulta serviciul de probaţiune, care este obligat să formuleze recomandări în acest sens.
+(6) [ABROGAT] Pentru stabilirea conţinutului obligaţiilor prevăzute în alin. (2) lit. a) şi lit. b), instanţa va consulta serviciul de probaţiune, care este obligat să formuleze recomandări în acest sens. [ABROGAT]
 
 Articolul 102
 
@@ -1043,7 +1036,7 @@ Anularea liberării condiţionate
 Articolul 106
 
 Efectele liberării condiţionate
-Dacă până la expirarea termenului de supraveghere condamnatul nu a săvârşit din nou o infracţiune, nu s-a dispus revocarea liberării condiţionate şi nu s-a descoperit o cauză de anulare, pedeapsa se consideră executată.
+În cazul în care condamnatul nu a săvârşit o nouă infracţiune descoperită până la expirarea termenului de supraveghere, nu s-a dispus revocarea liberării condiţionate şi nu s-a descoperit o cauză de anulare, pedeapsa se consideră executată.
 
 Titlul IV Măsurile de siguranţă
 
@@ -1176,7 +1169,7 @@ Articolul 116
 
 Referatul de evaluare
 (1) În vederea efectuării evaluării minorului, potrivit criteriilor prevăzute în art. 74, instanţa va solicita serviciului de probaţiune întocmirea unui referat care va cuprinde şi propuneri motivate referitoare la natura şi durata programelor de reintegrare socială pe care minorul ar trebui să le urmeze, precum şi la alte obligaţii ce pot fi impuse acestuia de către instanţă.
-(2) Referatul de evaluare privind respectarea condiţiilor de executare a măsurii educative sau a obligaţiilor impuse se întocmeşte în toate cazurile în care instanţa dispune asupra măsurilor educative ori asupra modificării sau încetării executării obligaţiilor impuse, precum şi la terminarea executării măsurii educative.
+(2) Referatul de evaluare privind respectarea condiţiilor de executare a măsurii educative sau a obligaţiilor impuse se întocmeşte de către serviciul de probaţiune în toate cazurile în care instanţa dispune asupra măsurii educative ori asupra modificării sau încetării executării obligaţiilor impuse, cu excepţia situaţiei prevăzute la art. 126, când acesta va fi întocmit de către centrul educativ ori de detenţie.
 
 Capitolul II Regimul măsurilor educative neprivative de libertate
 
@@ -1391,7 +1384,7 @@ Dizolvarea persoanei juridice
 a) persoana juridică a fost constituită în scopul săvârşirii de infracţiuni;
 b) obiectul său de activitate a fost deturnat în scopul comiterii de infracţiuni, iar pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea mai mare de 3 ani.
 (2) În caz de neexecutare, cu rea-credinţă, a uneia dintre pedepsele complementare prevăzute în art. 136 alin. (3) lit. b)-e), instanţa dispune dizolvarea persoanei juridice.
-(3) Pedeapsa complementară a dizolvării persoanei juridice are ca efect deschiderea procedurii de lichidare, potrivit legii, iar o copie a dispozitivului hotărârii definitive de condamnare prin care s-a aplicat această pedeapsă va fi comunicată, de îndată, instanţei civile competente, care va proceda la desemnarea lichidatorului.
+(3) [ABROGAT] Pedeapsa complementară a dizolvării persoanei juridice are ca efect deschiderea procedurii de lichidare, potrivit legii, iar o copie a dispozitivului hotărârii definitive de condamnare prin care s-a aplicat această pedeapsă va fi comunicată, de îndată, instanţei civile competente, care va proceda la desemnarea lichidatorului. [ABROGAT]
 
 Articolul 140
 
@@ -1420,8 +1413,8 @@ Pedeapsa complementară a interzicerii de a participa la procedurile de achiziţ
 Articolul 144
 
 Plasarea sub supraveghere judiciară
-(1) Plasarea sub supraveghere judiciară constă în desemnarea de către instanţă a unui administrator judiciar sau a unui mandatar judiciar care va supraveghea, pe o perioadă de la unu la 3 ani, desfăşurarea activităţii ce a ocazionat săvârşirea infracţiunii.
-(2) Administratorul judiciar sau mandatarul judiciar are obligaţia de a sesiza instanţa atunci când constată că persoana juridică nu a luat măsurile necesare în vederea prevenirii comiterii de noi infracţiuni. În cazul în care instanţa constată că sesizarea este întemeiată, dispune înlocuirea acestei pedepse cu pedeapsa prevăzută în art. 140.
+(1) Pedeapsa complementară a plasării sub supraveghere judiciară presupune desfăşurarea sub supravegherea unui mandatar judiciar a activităţii care a ocazionat comiterea infracţiunii, pe o perioadă de la un an la 3 ani.
+(2) Mandatarul judiciar are obligaţia de a sesiza instanţa atunci când constată că persoana juridică nu a luat măsurile necesare în vederea prevenirii comiterii de noi infracţiuni. În cazul în care instanţa constată că sesizarea este întemeiată, dispune înlocuirea acestei pedepse cu pedeapsa prevăzută la art. 140.
 (3) Plasarea sub supraveghere judiciară nu se aplică în cazul persoanelor juridice menţionate în art. 141.
 
 Articolul 145
@@ -1514,7 +1507,7 @@ Articolul 155
 (1) Cursul termenului prescripţiei răspunderii penale se întrerupe prin îndeplinirea oricărui act de procedură în cauză.
 (2) După fiecare întrerupere începe să curgă un nou termen de prescripţie.
 (3) Întreruperea cursului prescripţiei produce efecte faţă de toţi participanţii la infracţiune, chiar dacă actul de întrerupere priveşte numai pe unii dintre ei.
-(4) Termenele prevăzute în art. 154, dacă au fost depăşite cu încă o jumătate, vor fi socotite îndeplinite oricâte întreruperi ar interveni.
+(4) Termenele prevăzute la art. 154, dacă au fost depăşite cu încă o dată, vor fi socotite îndeplinite oricâte întreruperi ar interveni.
 (5) Admiterea în principiu a cererii de redeschidere a procesului penal face să curgă un nou termen de prescripţie a răspunderii penale.
 
 Articolul 156
@@ -1674,7 +1667,7 @@ Funcţionar public
 (1) Funcţionar public, în sensul legii penale, este persoana care, cu titlu permanent sau temporar, cu sau fără o remuneraţie:
 a) exercită atribuţii şi responsabilităţi, stabilite în temeiul legii, în scopul realizării prerogativelor puterii legislative, executive sau judecătoreşti;
 b) exercită o funcţie de demnitate publică sau o funcţie publică de orice natură;
-c) exercită, singură sau împreună cu alte persoane, în cadrul unei regii autonome, al altui operator economic sau al unei persoane juridice cu capital integral sau majoritar de stat ori al unei persoane juridice declarate ca fiind de utilitate publică, atribuţii legate de realizarea obiectului de activitate al acesteia.
+c) exercită, singură sau împreună cu alte persoane, în cadrul unei regii autonome, al altui operator economic sau al unei persoane juridice cu capital integral sau majoritar de stat, atribuţii legate de realizarea obiectului de activitate al acesteia.
 (2) De asemenea, este considerată funcţionar public, în sensul legii penale, persoana care exercită un serviciu de interes public pentru care a fost învestită de autorităţile publice sau care este supusă controlului ori supravegherii acestora cu privire la îndeplinirea respectivului serviciu public.
 
 Articolul 176
@@ -1722,7 +1715,7 @@ a) supunerea la executarea unei munci sau îndeplinirea de servicii, în mod for
 b) ţinerea în stare de sclavie sau alte procedee asemănătoare de lipsire de libertate ori de aservire;
 c) obligarea la practicarea prostituţiei, la manifestări pornografice în vederea producerii şi difuzării de materiale pornografice sau la alte forme de exploatare sexuală;
 d) obligarea la practicarea cerşetoriei;
-e) prelevarea de organe în mod ilegal.
+e) prelevarea de organe, ţesuturi sau celule de origine umană, în mod ilegal.
 
 Articolul 183
 
@@ -1958,13 +1951,13 @@ Punerea sau ţinerea unei persoane în stare de sclavie, precum şi traficul de 
 
 Articolul 210
 
-Traficul de persoane
-(1) Recrutarea, transportarea, transferarea, adăpostirea sau primirea unei persoane în scopul exploatării acesteia, săvârşită:
-a) prin constrângere, răpire, inducere în eroare sau abuz de autoritate;
-b) profitând de imposibilitatea de a se apăra sau de a-şi exprima voinţa ori de starea de vădită vulnerabilitate a acelei persoane;
-c) prin oferirea, darea, acceptarea sau primirea de bani ori de alte foloase în schimbul consimţământului persoanei care are autoritate asupra acelei persoane,
-se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Consimţământul persoanei victimă a traficului nu constituie cauză justificativă.
+Traficul de persoane 
+(1) Recrutarea, transportarea, transferarea, adăpostirea sau primirea unei persoane în scopul exploatării acesteia, săvârşită: 
+a) prin constrângere, răpire, inducere în eroare sau abuz de autoritate; 
+b) profitând de imposibilitatea de a se apăra sau de a-şi exprima voinţa ori de starea de vădită vulnerabilitate a acelei persoane; 
+c) prin oferirea, darea, acceptarea sau primirea de bani ori de alte foloase în schimbul consimţământului persoanei care are autoritate asupra acelei persoane, se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea exercitării unor drepturi. 
+(2) Traficul de persoane săvârşit de un funcţionar public în exerciţiul atribuţiilor de serviciu se pedepseşte cu închisoare de la 5 la 12 ani. 
+(3) Consimţământul persoanei victimă a traficului nu constituie cauză justificativă.
 
 Articolul 211
 
@@ -2160,8 +2153,9 @@ Furtul în scop de folosinţă
 
 Articolul 231
 
-Pedepsirea unor furturi la plângerea prealabilă
-Faptele prevăzute în prezentul capitol, săvârşite între membrii de familie, de către un minor în paguba tutorelui ori de către cel care locuieşte împreună cu persoana vătămată sau este găzduit de aceasta, se pedepsesc numai la plângerea prealabilă a persoanei vătămate.
+Plângerea prealabilă şi împăcarea 
+(1) Faptele prevăzute în prezentul capitol, săvârşite între membrii de familie de către un minor în paguba tutorelui ori de către cel care locuieşte împreună cu persoana vătămată sau este găzduit de aceasta, se pedepsesc numai la plângerea prealabilă a persoanei vătămate. 
+(2) În cazul faptelor prevăzute la art. 228, art. 229 alin. (1), alin. (2) lit. b) şi c) şi art. 230, împăcarea înlătură răspunderea penală.
 
 Articolul 232
 
@@ -2186,7 +2180,7 @@ c) de o persoană mascată, deghizată sau travestită;
 d) în timpul nopţii;
 e) într-un mijloc de transport sau asupra unui mijloc de transport;
 f) prin violare de domiciliu sau sediu profesional, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Tâlhăria săvârşită în condiţiile art. 229 alin. (3) se pedepseşte cu închisoarea de la 5 la 12 ani.
+(2) Tâlhăria săvârşită în condiţiile art. 229 alin. (3) se pedepseşte cu închisoare de la 5 la 12 ani şi interzicerea unor drepturi.
 (3) Cu aceeaşi pedeapsă se sancţionează tâlhăria care a avut ca urmare vătămarea corporală.
 
 Articolul 235
@@ -2608,7 +2602,7 @@ Capitolul I Infracţiuni de corupţie
 Articolul 289
 
 Luarea de mită
-(1) Fapta funcţionarului public care, direct sau indirect, pentru sine sau pentru altul, pretinde ori primeşte bani sau alte foloase care nu i se cuvin ori acceptă promisiunea unor astfel de foloase, în legătură cu îndeplinirea, neîndeplinirea ori întârzierea îndeplinirii unui act ce intră în îndatoririle sale de serviciu sau în legătură cu îndeplinirea unui act contrar acestor îndatoriri, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării dreptului de a ocupa o funcţie publică sau de a exercita profesia sau activitatea în executarea căreia a săvârşit fapta.
+(1) Fapta funcţionarului public care, direct ori indirect, pentru sine sau pentru altul, pretinde ori primeşte bani sau alte foloase care nu i se cuvin ori acceptă promisiunea unor astfel de foloase, în legătură cu îndeplinirea, neîndeplinirea, urgentarea ori întârzierea îndeplinirii unui act ce intră în îndatoririle sale de serviciu sau în legătură cu îndeplinirea unui act contrar acestor îndatoriri, se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea exercitării dreptului de a ocupa o funcţie publică ori de a exercita profesia sau activitatea în executarea căreia a săvârşit fapta.
 (2) Fapta prevăzută în alin. (1), săvârşită de una dintre persoanele prevăzute în art. 175 alin. (2), constituie infracţiune numai când este comisă în legătură cu neîndeplinirea, întârzierea îndeplinirii unui act privitor la îndatoririle sale legale sau în legătură cu efectuarea unui act contrar acestor îndatoriri.
 (3) Banii, valorile sau orice alte bunuri primite sunt supuse confiscării, iar când acestea nu se mai găsesc, se dispune confiscarea prin echivalent.
 
@@ -2630,7 +2624,7 @@ Traficul de influenţă
 Articolul 292
 
 Cumpărarea de influenţă
-(1) Promisiunea, oferirea sau darea de bani sau alte foloase, direct sau indirect, unei persoane care are influenţă sau lasă să se creadă că are influenţă asupra unui funcţionar public, pentru a-l determina pe acesta să îndeplinească, să nu îndeplinească, să urgenteze ori să întârzie îndeplinirea unui act ce intră în îndatoririle sale de serviciu sau să îndeplinească un act contrar acestor îndatoriri, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
+(1) Promisiunea, oferirea sau darea de bani ori alte foloase, pentru sine sau pentru altul, direct ori indirect, unei persoane care are influenţă sau lasă să se creadă că are influenţă asupra unui funcţionar public, pentru a-l determina pe acesta să îndeplinească, să nu îndeplinească, să urgenteze ori să întârzie îndeplinirea unui act ce intră în îndatoririle sale de serviciu sau să îndeplinească un act contrar acestor îndatoriri, se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
 (2) Făptuitorul nu se pedepseşte dacă denunţă fapta mai înainte ca organul de urmărire penală să fi fost sesizat cu privire la aceasta.
 (3) Banii, valorile sau orice alte bunuri se restituie persoanei care le-a dat, dacă au fost date după denunţul prevăzut în alin. (2).
 (4) Banii, valorile sau orice alte bunuri date sau oferite sunt supuse confiscării, iar dacă acestea nu se mai găsesc, se dispune confiscarea prin echivalent.
@@ -2646,10 +2640,11 @@ Fapte săvârşite de către funcţionari străini sau în legătură cu aceşti
 Prevederile prezentului capitol se aplică în privinţa următoarelor persoane, dacă, prin tratatele internaţionale la care România este parte, nu se dispune altfel:
 a) funcţionarilor sau persoanelor care îşi desfăşoară activitatea pe baza unui contract de muncă ori altor persoane care exercită atribuţii similare în cadrul unei organizaţii publice internaţionale la care România este parte;
 b) membrilor adunărilor parlamentare ale organizaţiilor internaţionale la care România este parte;
-c) funcţionarilor sau persoanelor care îşi desfăşoară activitatea pe baza unui contract de muncă ori altor persoane care exercită atribuţii similare, în cadrul Comunităţilor Europene;
+c) funcţionarilor sau persoanelor care îşi desfăşoară activitatea pe baza unui contract de muncă ori altor persoane care exercită atribuţii similare, în cadrul Uniunii Europene;
 d) persoanelor care exercită funcţii juridice în cadrul instanţelor internaţionale a căror competenţă este acceptată de România, precum şi funcţionarilor de la grefele acestor instanţe;
 e) funcţionarilor unui stat străin;
 f) membrilor adunărilor parlamentare sau administrative ale unui stat străin.
+g) juraţilor din cadrul unor instanţe străine.
 
 Capitolul II Infracţiuni de serviciu
 
@@ -2704,7 +2699,8 @@ Violarea secretului corespondenţei
 (5) Nu constituie infracţiune fapta săvârşită:
 a) dacă făptuitorul surprinde săvârşirea unei infracţiuni sau contribuie la dovedirea săvârşirii unei infracţiuni;
 b) dacă surprinde fapte de interes public, care au semnificaţie pentru viaţa comunităţii şi a căror divulgare prezintă avantaje publice mai mari decât prejudiciul produs persoanei vătămate.
-(6) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
+(6) Deţinerea sau confecţionarea, fără drept, de mijloace specifice de interceptare ori de înregistrare a comunicaţiilor se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+(7) Pentru faptele prevăzute la alin. (1), acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
 
 Articolul 303
 
@@ -2994,6 +2990,13 @@ Nerespectarea regimului armelor şi al muniţiilor
 (3) Sustragerea armelor sau muniţiilor prevăzute în alin. (1) şi alin. (2) se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
 (4) Portul armelor prevăzute în alin. (1) şi alin. (2), fără drept, în sediul autorităţilor publice, instituţiilor publice sau al altor persoane juridice de interes public ori în spaţiile rezervate desfăşurării procesului electoral, se pedepseşte cu închisoarea de la unu la 5 ani şi interzicerea unor drepturi.
 (5) Dacă faptele prevăzute în alin. (1) şi alin. (3) au ca obiect arme interzise sau muniţii, mecanisme ori dispozitive ale acestora, limitele speciale ale pedepsei se majorează cu o treime.
+(6) Nedepunerea armei şi a muniţiei la un armurier autorizat în termen de 10 zile de la expirarea perioadei de valabilitate a permisului de armă constituie infracţiune şi se pedepseşte cu închisoare de la 6 luni la 3 ani.
+(7) Fabricarea sau asamblarea de arme letale, de piese sau de muniţie pentru acestea: 
+a) din orice componente esenţiale traficate ilicit; 
+b) fără o autorizaţie eliberată de către o autoritate competentă a statului membru în care are loc fabricarea sau asamblarea; 
+c) fără marcarea armelor letale asamblate la data producerii lor, în conformitate cu prevederile legale,
+se pedepseşte cu închisoare de la 2 la 7 ani.
+
 
 Articolul 343
 
@@ -3003,16 +3006,16 @@ Uzul de armă fără drept
 
 Articolul 344
 
-Ştergerea sau modificarea marcajelor de pe arme letale
-Ştergerea sau modificarea, fără drept, a marcajelor de pe arme letale se pedepseşte cu închisoare de la unu la 3 ani sau cu amendă.
+Falsificarea sau modificarea. Ştergerea sau modificarea marcajelor de pe arme letale
+Falsificarea sau ştergerea, înlăturarea ori modificarea, fără drept, a marcajelor de pe arme letale se pedepseşte cu închisoare de la un an la 3 ani sau cu amendă.
 
 Articolul 345
 
-Nerespectarea regimului materialelor nucleare sau al altor materii radioactive
-(1) Primirea, deţinerea, folosirea, cedarea, modificarea, înstrăinarea, dispersarea, expunerea, transportul sau deturnarea materialelor nucleare ori a altor materii radioactive, precum şi orice operaţie privind circulaţia acestora, fără drept, se pedepsesc cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Sustragerea materialelor nucleare sau a altor materii radioactive se pedepseşte cu închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi.
-(3) Dacă faptele prevăzute în alin. (1) şi alin. (2) au pus în pericol alte persoane sau bunuri, au produs vătămarea corporală a uneia sau mai multor persoane, pedeapsa este închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
-(4) În cazul în care faptele prevăzute în alin. (1) şi alin. (2) au avut ca urmare moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi.
+Nerespectarea regimului materialelor nucleare sau al altor materii radioactive 
+(1) Primirea, deţinerea, folosirea, cedarea, modificarea, înstrăinarea, dispersarea, expunerea, producţia, procesarea, manipularea, depozitarea intermediară, importul, exportul ori depozitarea finală, transportul sau deturnarea materialelor nucleare ori a altor materii radioactive, precum şi orice operaţie privind circulaţia acestora, fără drept, se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea exercitării unor drepturi. 
+(2) Sustragerea materialelor nucleare sau a altor materii radioactive se pedepseşte cu închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi. 
+(3) Dacă faptele prevăzute la alin. (1) şi (2) au pus în pericol alte persoane sau bunuri, au produs vătămarea corporală a uneia ori mai multor persoane, pedeapsa este închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi. 
+(4) În cazul în care faptele prevăzute la alin. (1) şi (2) au avut ca urmare moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi. (5) Dacă faptele prevăzute la alin. (1), (3) şi (4) au fost săvârşite din culpă, limitele speciale ale pedepsei se reduc la jumătate.
 
 Articolul 346
 
@@ -3333,7 +3336,7 @@ Articolul 391
 
 Falsificarea documentelor şi evidenţelor electorale
 (1) Falsificarea prin orice mijloace a înscrisurilor de la birourile electorale se pedepseşte cu închisoarea de la unu la 5 ani şi interzicerea exercitării unor drepturi.
-(2) Cu aceeaşi pedeapsă se sancţionează şi înscrierea în copia de pe lista electorală permanentă a unor persoane care nu figurează în această listă.
+(2) Cu aceeaşi pedeapsă se sancţionează şi înscrierea în copia de pe lista electorală permanentă ori de pe lista electorală complementară a unor persoane care nu figurează în această listă.
 (3) Introducerea în uz sau folosirea unui program informatic cu vicii care alterează înregistrarea ori însumarea rezultatelor obţinute în secţiile de votare sau determină repartizarea mandatelor în afara prevederilor legii se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
 (4) Cu aceeaşi pedeapsă se sancţionează introducerea de date, informaţii sau proceduri care duc la alterarea sistemului informaţional naţional necesar stabilirii rezultatelor alegerilor.
 
@@ -3431,6 +3434,7 @@ Articolul 407
 Divulgarea secretului care periclitează securitatea naţională
 (1) Divulgarea unor documente sau a unor date care constituie informaţii secrete de stat, de către cel care le cunoaşte datorită atribuţiilor de serviciu, dacă fapta pune în pericol securitatea naţională, se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
 (2) Deţinerea în afara îndatoririlor de serviciu a unui document ce conţine informaţii secrete de stat, dacă fapta pune în pericol securitatea naţională, se pedepseşte cu închisoarea de la 5 la 10 ani.
+(3) Divulgarea, fără drept, a unor documente sau date care constituie informaţii secrete de stat, de către cel care ia cunoştinţă de acestea în afara îndatoririlor de serviciu, se pedepseşte cu închisoare de la un an la 5 ani.
 
 Articolul 408
 
@@ -3494,7 +3498,7 @@ Articolul 416
 Părăsirea postului sau comenzii
 (1) Părăsirea de către militar a postului, a serviciului sau a oricărui alt loc în care acesta trebuia să se afle se pedepseşte cu închisoarea de la 3 luni la un an.
 (2) Părăsirea comenzii sau a serviciului de permanenţă de către orice militar se pedepseşte cu închisoarea de la unu la 5 ani.
-(3) Faptele prevăzute în alin. (1) şi alin. (2) se pedepsesc cu închisoarea de la 2 la 7 ani, iar dacă au fost săvârşite în timp de război, se pedepsesc cu închisoarea de la 3 la 10 ani.
+(3) Faptele prevăzute la alin. (1) şi (2) săvârşite pe durata stării de asediu sau a stării de urgenţă se pedepsesc cu închisoare de la 2 la 7 ani, iar dacă au fost săvârşite în timp de război, se pedepsesc cu închisoare de la 3 la 10 ani.
 
 Articolul 417
 
@@ -3576,8 +3580,7 @@ Tentativa la infracţiunile prevăzute în art. 421-425, art. 427 şi art. 428 a
 
 Articolul 430
 
-Infracţiuni privitoare la aeronave militare
-Dispoziţiile art. 423-425, art. 428 şi art. 429 se aplică în mod corespunzător şi în cazul aeronavelor militare.
+Dispoziţiile art. 424-426, 428 şi 429 se aplică în mod corespunzător şi în cazul aeronavelor militare.
 
 Articolul 431
 
@@ -3713,6 +3716,7 @@ d) utilizează o persoană protejată de dispoziţiile dreptului internaţional 
 e) utilizează, ca metodă de purtare a războiului, înfometarea deliberată a civililor, privându-i de bunurile indispensabile supravieţuirii sau împiedicând, cu încălcarea dispoziţiilor dreptului internaţional umanitar, primirea ajutoarelor destinate acestora;
 f) declară sau ordonă că nu va exista îndurare pentru învinşi;
 g) ucide sau răneşte, prin viclenie, un membru al forţelor armate inamice sau un combatant al forţelor inamice se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
+h) utilizează bunurile culturale protejate ca atare de dreptul internaţional umanitar, în special monumente istorice, clădiri consacrate cultului religios, învăţământului, artei sau ştiinţei, pentru declanşarea unui atac prin mijloace militare împotriva părţii inamice.
 (2) Desfăşurarea unui atac prin mijloace militare, în cadrul unui conflict armat cu caracter internaţional, ştiind că el va cauza mediului înconjurător daune extinse, de durată şi grave, care ar fi vădit disproporţionate în raport cu ansamblul avantajului militar concret şi direct aşteptat, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
 
 Articolul 444
