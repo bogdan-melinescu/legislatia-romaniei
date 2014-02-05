@@ -522,12 +522,13 @@ Articolul 56
 (2) Procurorul poate să efectueze orice act de urmărire penală în cauzele pe care le conduce şi le supraveghează.
 (3) Urmărirea penală se efectuează, în mod obligatoriu, de către procuror: 
 a) în cazul infracţiunilor pentru care competenţa de judecată în primă instanţă aparţine Înaltei Curţi de Casaţie şi Justiţie sau curţii de apel; 
-b) în cazul infracţiunilor prevăzute la art. 188-191, art. 279 şi art. 289-294 din Codul penal; 
+b) în cazul infracţiunilor prevăzute la art. 188-191, art. 257, art. 276, art. 277, art. 279, art. 280-283 şi art. 289-294 din Codul penal;
 c) în cazul infracţiunilor săvârşite cu intenţie depăşită, care au avut ca urmare moartea unei persoane; 
 d) în cazul infracţiunilor pentru care competenţa de a efectua urmărirea penală aparţine Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism sau Direcţiei Naţionale Anticorupţie; 
 e) în alte cazuri prevăzute de lege.
 (4) Urmărirea penală în cazul infracţiunilor săvârşite de militari se efectuează, în mod obligatoriu, de procurorul militar.
 (5) Procurorii militari din cadrul parchetelor militare sau secţiilor militare ale parchetelor efectuează urmărirea penală potrivit competenţei parchetului din care fac parte, faţă de toţi participanţii la săvârşirea infracţiunilor comise de militari, urmând a fi sesizată instanţa competentă potrivit art. 44.
+(6) Este competent să efectueze ori, după caz, să conducă şi să supravegheze urmărirea penală procurorul de la parchetul corespunzător instanţei care, potrivit legii, judecă în primă instanţă cauza cu excepţia cazurilor în care legea prevede altfel.
 
 Articolul 57
 
@@ -2138,8 +2139,8 @@ Calea de atac împotriva încheierilor prin care se dispune asupra măsurilor pr
 Articolul 206
 
 Calea de atac împotriva încheierilor prin care se dispune asupra măsurilor preventive în cursul judecăţii
-(1) Împotriva încheierilor prin care instanţa dispune asupra măsurilor preventive inculpatul şi procurorul pot formula contestaţie, în termen de 48 de ore de la pronunţare sau, după caz, de la comunicare. Contestaţia se depune la instanţa care a pronunţat încheierea atacată şi se înaintează, împreună cu dosarul cauzei, instanţei ierarhic superioare, în termen de 48 de ore de la înregistrare.
-(2) Încheierile prin care Înalta Curte de Casaţie şi Justiţie dispune asupra măsurilor preventive pot fi contestate la completul competent de la Înalta Curte de Casaţie şi Justiţie.
+(1) Împotriva încheierilor prin care instanţa dispune, în primă instanţă, asupra măsurilor preventive inculpatul şi procurorul pot formula contestaţie, în termen de 48 de ore de la pronunţare sau, după caz, de la comunicare. Contestaţia se depune la instanţa care a pronunţat încheierea atacată şi se înaintează, împreună cu dosarul cauzei, instanţei ierarhic superioare, în termen de 48 de ore de la înregistrare.
+(2) Încheierile prin care Înalta Curte de Casaţie şi Justiţie dispune în primă instanţă asupra măsurilor preventive pot fi contestate la completul competent de la Înalta Curte de Casaţie şi Justiţie.
 (3) Contestaţia se soluţionează în şedinţă publică, cu participarea procurorului şi cu citarea inculpatului.
 (4) Contestaţia formulată împotriva încheierii prin care s-a dispus luarea sau menţinerea unei măsuri preventive ori prin care s-a constatat încetarea de drept a acesteia nu este suspensivă de executare.
 (5) Contestaţia formulată de inculpat se soluţionează în termen de 5 zile de la înregistrare.
@@ -3312,7 +3313,7 @@ Procedura audierii anticipate
 Articolul 309
 
 Punerea în mişcare a acţiunii penale
-(1) Acţiunea penală se pune în mişcare de procuror, prin ordonanţă, în cursul urmăririi penale, de îndată ce se constată că există probe din care rezultă presupunerea rezonabilă că o persoană a săvârşit o infracţiune şi nu există vreunul dintre cazurile de împiedicare, prevăzute la art. 16 alin. (1).
+(1) Acţiunea penală se pune în mişcare de procuror, prin ordonanţă, în cursul urmăririi penale, când acesta constată că există probe din care rezultă că o persoană a săvârşit o infracţiune şi nu există vreunul dintre cazurile de împiedicare prevăzute la art. 16 alin. (1).
 (2) Punerea în mişcare a acţiunii penale este comunicată inculpatului de către organul de urmărire penală care îl cheamă pentru a-l audia. Dispoziţiile art. 108 se aplică în mod corespunzător, încheindu-se în acest sens un proces-verbal.
 (3) La cerere, inculpatului i se eliberează o copie a ordonanţei prin care a fost dispusă măsura.
 (4) Atunci când consideră necesar, procurorul poate proceda personal la audierea inculpatului şi la comunicarea prevăzute la alin. (2).
@@ -4317,8 +4318,28 @@ Limitele rejudecării
 (2) Dacă hotărârea a fost desfiinţată în apelul procurorului, declarat în defavoarea inculpatului sau în apelul persoanei vătămate, instanţa care rejudecă poate agrava soluţia dată de prima instanţă.
 (3) Când hotărârea este desfiinţată numai cu privire la unele fapte sau persoane ori numai în ceea ce priveşte latura penală sau civilă, instanţa de rejudecare se pronunţă în limitele în care hotărârea a fost desfiinţată.
 
-Capitolul IV Contestaţia în anulare
+Capitolul III^1 Contestaţia
 
+Articolul 425^1
+
+Declararea şi soluţionarea contestaţiei 
+(1) Calea de atac a contestaţiei se poate exercita numai atunci când legea o prevede expres, prevederile prezentului articol fiind aplicabile când legea nu prevede altfel. 
+(2) Pot face contestaţie procurorul şi subiecţii procesuali la care hotărârea atacată se referă, precum şi persoanele ale căror interese legitime au fost vătămate prin aceasta, în termen de 3 zile, care curge de la pronunţare pentru procuror şi de la comunicare pentru celelalte persoane, dispoziţiile art. 411 alin. (1) aplicându-se în mod corespunzător. 
+(3) Contestaţia se depune la judecătorul de drepturi şi libertăţi, judecătorul de cameră preliminară sau, după caz, la instanţa care a pronunţat hotărârea care se atacă şi se motivează până la termenul stabilit pentru soluţionare, dispoziţiile art. 415 aplicându-se în mod corespunzător. 
+(4) La soluţionarea contestaţiei, dispoziţiile art. 416 şi art. 418 se aplică în mod corespunzător; în cadrul acestor limite, la soluţionarea contestaţiei împotriva încheierii privind o măsură preventivă se poate dispune o măsură mai puţin gravă decât cea solicitată sau decât cea dispusă prin încheierea contestată ori se pot modifica obligaţiile din conţinutul măsurii contestate. 
+(5) Contestaţia se soluţionează de către judecătorul de drepturi şi libertăţi, respectiv de către judecătorul de cameră preliminară de la instanţa superioară celei sesizate sau, după caz, de către instanţa superioară celei sesizate, respectiv de completul competent al Înaltei Curţi de Casaţie şi Justiţie, în şedinţă publică, cu participarea procurorului. 
+(6) La soluţionarea contestaţiei se citează persoana care a făcut contestaţia, precum şi subiecţii procesuali la care hotărârea atacată se referă, dispoziţiile art. 90 şi art. 91 aplicându-se în mod corespunzător. 
+(7) Contestaţia se soluţionează prin decizie, care nu este supusă niciunei căi de atac, putându-se pronunţa una dintre următoarele soluţii:
+1. respingerea contestaţiei, cu menţinerea hotărârii atacate: 
+a) când contestaţia este tardivă sau inadmisibilă; 
+b) când contestaţia este nefondată;
+2. admiterea contestaţiei şi: 
+a) desfiinţarea hotărârii atacate şi soluţionarea cauzei; 
+b) desfiinţarea hotărârii atacate şi dispunerea rejudecării cauzei de către judecătorul sau completul care a pronunţat-o, atunci când se constată că nu au fost respectate dispoziţiile privind citarea.
+
+Capitolul V Căile extraordinare de atac
+
+Secţiunea 1 Contestaţia în anulare
 
 Articolul 426
 
@@ -4371,10 +4392,8 @@ Procedura de judecare
 (3) Judecarea contestaţiei în anulare nu poate avea loc decât în prezenţa inculpatului, când acesta se află în stare de deţinere.
 (4) Sentinţa dată în contestaţia în anulare este supusă apelului, iar decizia dată în apel este definitivă.
 
-Capitolul V Căile extraordinare de atac
 
-
-Secţiunea 1 Recursul în casaţie
+Secţiunea 2 Recursul în casaţie
 
 
 Articolul 433
@@ -4759,12 +4778,12 @@ Conţinutul hotărârii şi efectele ei
 (3) Decizia se motivează în termen de cel mult 30 de zile de la pronunţare şi se publică în cel mult 15 zile de la motivare în Monitorul Oficial al României, Partea I.
 (4) Dezlegarea dată problemelor de drept judecate este obligatorie pentru instanţe de la data publicării deciziei în Monitorul Oficial al României, Partea I.
 
-Secţiunea a 2-a Sesizarea Înaltei Curţi de Casaţie şi Justiţie în vederea pronunţării unei hotărâri prealabile pentru dezlegarea unor probleme de drept
-
 Articolul 474^1
 
 Încetarea sau modificarea efectelor deciziei
-În cazul abrogării, constatării neconstituţionalităţii ori modificării dispoziţiei legale care a generat interpretările diferite şi pentru care s-a pronunţat un recurs în interesul legii, procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie va sesiza Înalta Curte de Casaţie şi Justiţie cu propunere de modificare a deciziei sau, după caz, de constatare a încetării obligativităţii acesteia. Dispoziţiile art. 473 şi 474 se aplică în mod corespunzător.
+Efectele deciziei încetează în cazul abrogării, constatării neconstituţionalităţii ori modificării dispoziţiei legale care a generat problema de drept dezlegată, cu excepţia cazului în care aceasta subzistă în noua reglementare.
+
+Secţiunea a 2-a Sesizarea Înaltei Curţi de Casaţie şi Justiţie în vederea pronunţării unei hotărâri prealabile pentru dezlegarea unor probleme de drept
 
 Articolul 475
 
@@ -4797,7 +4816,7 @@ Conţinutul şi efectele hotărârii
 Articolul 477^1
 
 Încetarea sau modificarea efectelor deciziei
-În cazul abrogării, constatării neconstituţionalităţii ori modificării dispoziţiei legale care a generat interpretările diferite şi pentru care s-a pronunţat o hotărâre prealabilă pentru dezlegarea unor probleme de drept, procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie va sesiza Înalta Curte de Casaţie şi Justiţie cu propunere de modificare a deciziei sau, după caz, de constatare a încetării obligativităţii acesteia. Dispoziţiile art. 473 şi 474 se aplică în mod corespunzător.
+Efectele deciziei încetează în cazul abrogării, constatării neconstituţionalităţii ori modificării dispoziţiei legale care a generat problema de drept dezlegată, cu excepţia cazului în care aceasta subzistă în noua reglementare.
 
 Titlul IV Proceduri speciale
 
