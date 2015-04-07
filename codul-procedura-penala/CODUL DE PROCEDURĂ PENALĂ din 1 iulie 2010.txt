@@ -4988,7 +4988,7 @@ Sentinţa cuprinde în mod obligatoriu:
 a) menţiunile prevăzute la art. 370 alin. (4), art. 403 şi 404;
 b) fapta pentru care s-a încheiat acordul de recunoaştere a vinovăţiei şi încadrarea juridică a acesteia.
 
-Articolul 488
+Articolul 488 (*)
 
 Calea de atac 
 (1) Împotriva sentinţei pronunţate potrivit art. 485, procurorul şi inculpatul pot declara apel, în termen de 10 zile de la comunicare. 
@@ -4998,6 +4998,16 @@ Calea de atac
 a) respinge apelul, menţinând hotărârea atacată, dacă apelul este tardiv sau inadmisibil ori nefondat; 
 b) admite apelul, desfiinţează sentinţa prin care acordul de recunoaştere a fost admis numai cu privire la felul şi cuantumul pedepsei sau la forma de executare a acesteia şi pronunţă o nouă hotărâre, procedând potrivit art. 485 alin. (1) lit. a), care se aplică în mod corespunzător; 
 c) admite apelul, desfiinţează sentinţa prin care acordul de recunoaştere a fost respins, admite acordul de recunoaştere a vinovăţiei, dispoziţiile art. 485 alin. (1) lit. a) şi art. 486 aplicându-se în mod corespunzător.
+
+	Notă
+	──────────
+
+	(*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 235 din 7 aprilie 2015, publicată în MONITORUL OFICIAL nr. 364 din 26 mai 2015, s-a admis excepţia de neconstituţionalitate a prevederilor art. 488 din Codul de procedură penală, stabilindu-se că respectivele dispoziţii sunt neconstituţionale în măsura în care exclud persoana vătămată, partea civilă şi partea responsabilă civilmente de la audierea în faţa instanţei de fond.
+
+	Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+	Prin urmare, în intervalul 26 mai 2015-10 iulie 2015, dispoziţiile cuprinse în art. 488 din Codul de procedură penală, în măsura în care exclud persoana vătămată, partea civilă şi partea responsabilă civilmente de la audierea în faţa instanţei de fond, au fost suspendate de drept, încetându-şi efectele juridice în data de 11 iulie 2015, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.
+
 
 Capitolul I^1 Contestaţia privind durata procesului penal
 
