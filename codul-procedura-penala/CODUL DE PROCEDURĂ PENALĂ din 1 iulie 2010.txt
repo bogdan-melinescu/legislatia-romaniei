@@ -2551,7 +2551,17 @@ Prelungirea arestării preventive în cursul urmăririi penale
 Articolul 235
 
 Procedura prelungirii arestării preventive în cursul urmăririi penale
-(1) Propunerea de prelungire a arestării preventive împreună cu dosarul cauzei se depun la judecătorul de drepturi şi libertăţi cu cel puţin 5 zile înainte de expirarea duratei arestării preventive.
+(1) Propunerea de prelungire a arestării preventive împreună cu dosarul cauzei se depun la judecătorul de drepturi şi libertăţi cu cel puţin 5 zile înainte de expirarea duratei arestării preventive. (*)
+
+	Notă
+	──────────
+
+	(*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 336 din 30 aprilie 2015, publicată în MONITORUL OFICIAL nr. 342 din 19 mai 2015, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 235 alin. (1) din Codul de procedură penală, constatându-se ca dispoziţiile respective sunt constituţionale în măsura în care nerespectarea termenului "cu cel puţin 5 zile înainte de expirarea duratei arestării preventive" atrage incidenţa art. 268 alin. (1) din Codul de procedură penală.
+
+	Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+	În concluzie, în intervalul 19 mai 2015-3 iulie 2015, dispoziţiile invocate mai sus, au fost suspendate de drept, încetându-şi efectele juridice începând cu data de 4 iulie 2015, în măsura în care nerespectarea termenului "cu cel puţin 5 zile înainte de expirarea duratei arestării preventive" atrage incidenţa art. 268 alin. (1) din Codul de procedură penală, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.
+
 (2) Judecătorul de drepturi şi libertăţi fixează termen pentru soluţionarea propunerii de prelungire a arestării preventive înainte de expirarea măsurii. Ziua şi ora stabilite se comunică procurorului, care are obligaţia de a asigura prezenţa în faţa judecătorului de drepturi şi libertăţi a inculpatului arestat preventiv. Avocatul inculpatului este încunoştinţat şi i se acordă, la cerere, posibilitatea de a studia dosarul cauzei.
 (3) Inculpatul este ascultat de judecătorul de drepturi şi libertăţi asupra tuturor motivelor pe care se întemeiază propunerea de prelungire a arestării preventive, în prezenţa unui avocat, ales sau numit din oficiu.
 (4) În cazul în care inculpatul arestat preventiv se află internat în spital şi din cauza stării sănătăţii nu poate fi adus în faţa judecătorului de drepturi şi libertăţi sau când, din cauză de forţă majoră ori stare de necesitate, deplasarea sa nu este posibilă, propunerea va fi examinată în lipsa inculpatului, dar numai în prezenţa avocatului acestuia, căruia i se dă cuvântul pentru a pune concluzii.
@@ -2992,7 +3002,13 @@ Capitolul II Termenele
 Articolul 268
 
 Consecinţele nerespectării termenului
-(1) Când pentru exercitarea unui drept procesual legea prevede un anumit termen, nerespectarea acestuia atrage decăderea din exerciţiul dreptului şi nulitatea actului făcut peste termen.
+(1) Când pentru exercitarea unui drept procesual legea prevede un anumit termen, nerespectarea acestuia atrage decăderea din exerciţiul dreptului şi nulitatea actului făcut peste termen. (*)
+
+	Notă
+	──────────
+
+	(*) A se vedea DECIZIA CURŢII CONSTITUŢIONALE nr. 336 din 30 aprilie 2015, publicată în MONITORUL OFICIAL nr. 342 din 19 mai 2015, prin s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 235 alin. (1) din Codul de procedură penală, constatându-se ca dispoziţiile respective sunt constituţionale în măsura în care nerespectarea termenului "cu cel puţin 5 zile înainte de expirarea duratei arestării preventive" atrage incidenţa art. 268 alin. (1) din Codul de procedură penală.
+
 (2) Când o măsură procesuală nu poate fi luată decât pe un anumit termen, expirarea acestuia atrage de drept încetarea efectului măsurii.
 (3) Pentru celelalte termene procedurale se aplică, în caz de nerespectare, dispoziţiile privitoare la nulităţi.
 
