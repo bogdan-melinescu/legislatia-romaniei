@@ -2155,7 +2155,7 @@ Verificarea măsurilor preventive în procedura de cameră preliminară
 (3) Dispoziţiile art. 235 alin. (4)-(6) se aplică în mod corespunzător.
 (4) Când constată că temeiurile care au determinat luarea măsurii se menţin sau există temeiuri noi care justifică o măsură preventivă, judecătorul de cameră preliminară dispune prin încheiere menţinerea măsurii preventive faţă de inculpat.
 (5) Când constată că au încetat temeiurile care au determinat luarea sau prelungirea măsurii arestării preventive şi nu există temeiuri noi care să o justifice ori în cazul în care au apărut împrejurări noi din care rezultă nelegalitatea măsurii preventive, judecătorul de cameră preliminară dispune prin încheiere revocarea acesteia şi punerea în libertate a inculpatului, dacă nu este arestat în altă cauză.
-(6) În tot cursul procedurii de cameră preliminară, judecătorul de cameră preliminară, din oficiu, verifică periodic, dar nu mai târziu de 30 de zile, dacă subzistă temeiurile care au determinat luarea măsurii arestării preventive şi a măsurii arestului la domiciliu. Dispoziţiile alin. (2)-(5) se aplică în mod corespunzător.
+(6) În tot cursul procedurii de cameră preliminară, judecătorul de cameră preliminară, din oficiu, verifică periodic, dar nu mai târziu de 30 de zile, dacă subzistă temeiurile care au determinat luarea măsurii arestării preventive şi a măsurii arestului la domiciliu sau dacă au apărut temeiuri noi, care să justifice menţinerea acestor măsuri. Dispoziţiile alin. (2)-(5) se aplică în mod corespunzător.
 (7) Judecătorul de cameră preliminară, în cursul procedurii de cameră preliminară, verifică, din oficiu, periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat luarea măsurii controlului judiciar ori a controlului judiciar pe cauţiune sau dacă au apărut temeiuri noi, care să justifice menţinerea acestei măsuri. Dispoziţiile alin. (2)-(5) se aplică în mod corespunzător.
 
 Articolul 208
@@ -2164,7 +2164,7 @@ Verificarea măsurilor preventive în cursul judecăţii
 (1) Judecătorul de cameră preliminară înaintează dosarul instanţei de judecată cu cel puţin 5 zile înainte de expirarea măsurii preventive.
 (2) Instanţa de judecată verifică din oficiu dacă subzistă temeiurile care au determinat luarea, prelungirea sau menţinerea măsurii preventive, înainte de expirarea duratei acesteia, cu citarea inculpatului.
 (3) Dispoziţiile art. 207 alin. (3)-(5) se aplică în mod corespunzător.
-(4) În tot cursul judecăţii, instanţa, din oficiu, prin încheiere, verifică periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat menţinerea măsurii arestării preventive şi a măsurii arestului la domiciliu dispuse faţă de inculpat.
+(4) În tot cursul judecăţii, instanţa, din oficiu, prin încheiere, verifică periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat menţinerea măsurii arestării preventive şi a măsurii arestului la domiciliu dispuse faţă de inculpat sau dacă au apărut temeiuri noi, care să justifice menţinerea acestor măsuri.
 (5) În tot cursul judecăţii, instanţa verifică prin încheiere, din oficiu, periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat luarea măsurii controlului judiciar ori a controlului judiciar pe cauţiune sau dacă au apărut temeiuri noi, care să justifice menţinerea acestei măsuri. Dispoziţiile art. 207 alin. (3)-(5) se aplică în mod corespunzător.
 
 Secţiunea a 2-a Reţinerea
@@ -2419,18 +2419,19 @@ b) să nu comunice cu persoana vătămată sau membrii de familie ai acesteia, c
 
 Articolul 222
 
-Durata arestului la domiciliu
-(1) În cursul urmăririi penale, arestul la domiciliu poate fi luat pe o durată de cel mult 30 de zile.
-(2) Arestul la domiciliu poate fi prelungit, în cursul urmăririi penale, numai în caz de necesitate, dacă se menţin temeiurile care au determinat luarea măsurii sau au apărut temeiuri noi, fiecare prelungire neputând să depăşească 30 de zile.
-(3) În cazul prevăzut la alin. (2), prelungirea arestului la domiciliu poate fi dispusă de către judecătorul de drepturi şi libertăţi de la instanţa căreia i-ar reveni competenţa să judece cauza în primă instanţă sau de la instanţa corespunzătoare în grad acesteia în a cărei circumscripţie se află locul unde s-a constatat săvârşirea infracţiunii ori sediul parchetului din care face parte procurorul care efectuează sau supraveghează urmărirea penală.
-(4) Judecătorul de drepturi şi libertăţi este sesizat în vederea prelungirii măsurii de către procuror, prin propunere motivată, însoţită de dosarul cauzei, cu cel puţin 5 zile înainte de expirarea duratei acesteia.
-(5) Judecătorul de drepturi şi libertăţi, sesizat potrivit alin. (4), fixează termen de soluţionare a propunerii procurorului, în camera de consiliu, mai înainte de expirarea duratei arestului la domiciliu şi dispune citarea inculpatului.
-(6) Participarea procurorului este obligatorie.
-(7) Judecătorul de drepturi şi libertăţi admite sau respinge propunerea procurorului prin încheiere motivată.
-(8) Dosarul cauzei se restituie organului de urmărire penală, în termen de 24 de ore de la expirarea termenului de formulare a contestaţiei.
-(9) Durata maximă a măsurii arestului la domiciliu, în cursul urmăririi penale, este de 180 de zile.
-(10) Durata privării de libertate dispusă prin măsura arestului la domiciliu nu se ia în considerare pentru calculul duratei maxime a măsurii arestării preventive a inculpatului în cursul urmăririi penale.
-(11) Dispoziţiile art. 219 alin. (4)-(6) se aplică în mod corespunzător.
+Durata arestului la domiciliu 
+(1) În cursul urmăririi penale, arestul la domiciliu poate fi luat pe o durată de cel mult 30 de zile. 
+(2) Arestul la domiciliu poate fi prelungit în cursul urmăririi penale, numai în caz de necesitate, dacă se menţin temeiurile care au determinat luarea măsurii sau au apărut temeiuri noi, fiecare prelungire neputând să depăşească 30 de zile. 
+(3) În cazul prevăzut la alin. (2), prelungirea arestului la domiciliu poate fi dispusă de către judecătorul de drepturi şi libertăţi de la instanţa căreia i-ar reveni competenţa să judece cauza în primă instanţă sau de la instanţa corespunzătoare în grad acesteia în a cărei circumscripţie se află locul unde s-a constatat săvârşirea infracţiunii ori sediul parchetului din care face parte procurorul care efectuează sau supraveghează urmărirea penală. 
+(4) Judecătorul de drepturi şi libertăţi este sesizat în vederea prelungirii măsurii de către procuror, prin propunere motivată, însoţită de dosarul cauzei, cu cel puţin 5 zile înainte de expirarea duratei acesteia. 
+(5) Judecătorul de drepturi şi libertăţi, sesizat potrivit alin. (4), fixează termen de soluţionare a propunerii procurorului, în camera de consiliu, mai înainte de expirarea duratei arestului la domiciliu şi dispune citarea inculpatului. 
+(6) Participarea procurorului este obligatorie. 
+(7) Judecătorul de drepturi şi libertăţi admite sau respinge propunerea procurorului prin încheiere motivată. 
+(8) Dosarul cauzei se restituie organului de urmărire penală în termen de 24 de ore de la expirarea termenului de formulare a contestaţiei. 
+(9) Durata maximă a măsurii arestului la domiciliu, în cursul urmăririi penale, este de 180 de zile. 
+(10) Durata privării de libertate dispusă prin măsura arestului la domiciliu nu se ia în considerare pentru calculul duratei maxime a măsurii arestării preventive a inculpatului în cursul urmăririi penale. 
+(11) Dispoziţiile art. 219 alin. (4)-(6) se aplică în mod corespunzător. 
+(12) În procedura de cameră preliminară şi în cursul judecăţii, măsura arestului la domiciliu poate fi dispusă pe o perioadă de cel mult 30 de zile. Dispoziţiile art. 239 se aplică în mod corespunzător.
 
 Secţiunea a 6-a Arestarea preventivă
 
