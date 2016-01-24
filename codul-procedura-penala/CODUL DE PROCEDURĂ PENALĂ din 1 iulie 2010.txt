@@ -2746,7 +2746,16 @@ Contestarea măsurilor asigurătorii
 (3) Procurorul înaintează judecătorului de drepturi şi libertăţi dosarul cauzei, în termen de 24 de ore de la solicitarea dosarului de către acesta.
 (4) Soluţionarea contestaţiei se face în camera de consiliu, cu citarea celui care a făcut contestaţia şi a persoanelor interesate, prin încheiere motivată, care este definitivă. Participarea procurorului este obligatorie.
 (5) Dosarul cauzei se restituie procurorului în termen de 48 de ore de la soluţionarea contestaţiei.
-(6) Împotriva modului de aducere la îndeplinire a măsurii asigurătorii luate de către judecătorul de cameră preliminară ori de către instanţa de judecată, procurorul, suspectul ori inculpatul sau orice altă persoană interesată poate face contestaţie la acest judecător ori la această instanţă, în termen de 3 zile de la data punerii în executare a măsurii.
+(6) Împotriva modului de aducere la îndeplinire a măsurii asigurătorii luate de către judecătorul de cameră preliminară ori de către instanţa de judecată, procurorul, suspectul ori inculpatul sau orice altă persoană interesată (*) poate face contestaţie la acest judecător ori la această instanţă, în termen de 3 zile de la data punerii în executare a măsurii.
+
+	Notă
+	──────────
+	(*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 24 din 20 ianuarie 2016, publicată în MONITORUL OFICIAL nr. 276 din 12 aprilie 2016, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 250 alin. (6) din Codul de procedură penală, constatându-se că soluţia legislativă care nu permite şi contestarea luării măsurii asigurătorii de către judecătorul de cameră preliminară ori de către instanţa de judecată este neconstituţională.
+
+	Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+	Prin urmare, în intervalul 12 aprilie 2016-26 mai 2016, soluţia legislativă cuprinsă în art. 250 alin. (6) din Codul de procedură penală, care nu permite şi contestarea luării măsurii asigurătorii de către judecătorul de cameră preliminară ori de către instanţa de judecată, a fost suspendată de drept, încetându-şi efectele juridice începând cu data de 27 mai 2016, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.
+
 (7) Contestaţia nu suspendă executarea şi se soluţionează, în şedinţă publică, prin încheiere motivată, cu citarea părţilor, în termen de 5 zile de la înregistrarea acesteia. Participarea procurorului este obligatorie.
 (8) După rămânerea definitivă a hotărârii, se poate face contestaţie potrivit legii civile numai asupra modului de aducere la îndeplinire a măsurii asigurătorii.
 (9) Întocmirea minutei este obligatorie.
