@@ -1371,7 +1371,16 @@ Copiile se realizează cu mijloace tehnice şi proceduri adecvate, de natură s�
 Articolul 142
 
 Punerea în executare a mandatului de supraveghere tehnică
-(1) Procurorul pune în executare supravegherea tehnică ori poate dispune ca aceasta să fie efectuată de organul de cercetare penală sau de lucrători specializaţi din cadrul poliţiei ori de alte organe specializate ale statului.
+(1) Procurorul pune în executare supravegherea tehnică ori poate dispune ca aceasta să fie efectuată de organul de cercetare penală sau de lucrători specializaţi din cadrul poliţiei ori de alte organe specializate ale statului. (*)
+
+	Notă
+	──────────
+	(*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 51 din 16 februarie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016, s-a constatat neconstituţionalitatea sintagmei "ori de alte organe specializate ale statului" din cuprinsul dispoziţiilor art. 142 alin. (1) din Codul de procedură penală, în forma avută anterior modificării aduse prin ORDONANŢA DE URGENŢĂ nr. 6 din 11 martie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016.
+
+	Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+	Prin urmare, începând cu data de 14 martie 2016, sintagma "ori de alte organe specializate ale statului" din cuprinsul dispoziţiilor art. 142 alin. (1) din Codul de procedură penală, în forma avută anterior modificării aduse prin ORDONANŢA DE URGENŢĂ nr. 6 din 11 martie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016, ar fi trebuit să se suspende de drept, şi să-şi înceteze efectele juridice începând cu data de 29 aprilie 2016, dacă legiuitorul nu ar fi intervenit, prin ORDONANŢA DE URGENŢĂ nr. 6 din 11 martie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016, pentru modificarea prevederilor atacate.
+
 (2) Furnizorii de reţele publice de comunicaţii electronice sau furnizorii de servicii de comunicaţii electronice destinate publicului sau de orice tip de comunicare ori de servicii financiare sunt obligaţi să colaboreze cu organele de urmărire penală, cu autorităţile prevăzute la alin. (1), în limitele competenţelor acestora, pentru punerea în executare a mandatului de supraveghere tehnică.
 (3) Persoanele care sunt chemate să dea concurs tehnic la executarea măsurilor de supraveghere au obligaţia să păstreze secretul operaţiunii efectuate, sub sancţiunea legii penale.
 (4) Procurorul are obligaţia de a înceta imediat supravegherea tehnică înainte de expirarea duratei mandatului dacă nu mai există temeiurile care au justificat măsura, informând de îndată despre aceasta judecătorul care a emis mandatul.
