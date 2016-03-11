@@ -544,7 +544,7 @@ Articolul 57
 
 Competenţa organelor de cercetare penală
 (1) Organele de cercetare penală ale poliţiei judiciare efectuează urmărirea penală pentru orice infracţiune care nu este dată, prin lege, în competenţa organelor de cercetare penală speciale sau procurorului, precum şi în alte cazuri prevăzute de lege.
-(2) Organele de cercetare penală speciale efectuează acte de urmărire penală numai în condiţiile art. 55 alin. (5) şi (6), corespunzător specializării structurii din care fac parte, în cazul săvârşirii infracţiunilor de către militari sau în cazul săvârşirii infracţiunilor de corupţie şi de serviciu prevăzute de Codul penal săvârşite de către personalul navigant al marinei civile, dacă fapta a pus sau a putut pune în pericol siguranţa navei sau navigaţiei ori a personalului.
+(2) Organele de cercetare penală speciale efectuează acte de urmărire penală numai în condiţiile art. 55 alin. (5) şi (6), corespunzător specializării structurii din care fac parte, în cazul săvârşirii infracţiunilor de către militari sau în cazul săvârşirii infracţiunilor de corupţie şi de serviciu prevăzute de Codul penal săvârşite de către personalul navigant al marinei civile, dacă fapta a pus sau a putut pune în pericol siguranţa navei sau navigaţiei ori a personalului. De asemenea, organele de cercetare penală speciale pot efectua, în cazul infracţiunilor contra securităţii naţionale prevăzute în titlul X din Codul penal şi infracţiunilor de terorism, din dispoziţia procurorului, punerea în aplicare a mandatelor de supraveghere tehnică.
 
 Articolul 58
 
@@ -1371,7 +1371,7 @@ Copiile se realizează cu mijloace tehnice şi proceduri adecvate, de natură s�
 Articolul 142
 
 Punerea în executare a mandatului de supraveghere tehnică
-(1) Procurorul pune în executare supravegherea tehnică ori poate dispune ca aceasta să fie efectuată de organul de cercetare penală sau de lucrători specializaţi din cadrul poliţiei ori de alte organe specializate ale statului. (*)
+(1) Procurorul pune în executare supravegherea tehnică ori poate dispune ca aceasta să fie efectuată de organul de cercetare penală sau de lucrători specializaţi din cadrul poliţiei. (*)
 
 	Notă
 	──────────
@@ -1381,6 +1381,7 @@ Punerea în executare a mandatului de supraveghere tehnică
 
 	Prin urmare, începând cu data de 14 martie 2016, sintagma "ori de alte organe specializate ale statului" din cuprinsul dispoziţiilor art. 142 alin. (1) din Codul de procedură penală, în forma avută anterior modificării aduse prin ORDONANŢA DE URGENŢĂ nr. 6 din 11 martie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016, ar fi trebuit să se suspende de drept, şi să-şi înceteze efectele juridice începând cu data de 29 aprilie 2016, dacă legiuitorul nu ar fi intervenit, prin ORDONANŢA DE URGENŢĂ nr. 6 din 11 martie 2016, publicată în MONITORUL OFICIAL nr. 190 din 14 martie 2016, pentru modificarea prevederilor atacate.
 
+(1^1) Pentru realizarea activităţilor prevăzute la art. 138 alin. (1) lit. a)-d), procurorul, organele de cercetare penală sau lucrătorii specializaţi din cadrul poliţiei folosesc nemijlocit sistemele tehnice şi proceduri adecvate, de natură să asigure integritatea şi confidenţialitatea datelor şi informaţiilor colectate.
 (2) Furnizorii de reţele publice de comunicaţii electronice sau furnizorii de servicii de comunicaţii electronice destinate publicului sau de orice tip de comunicare ori de servicii financiare sunt obligaţi să colaboreze cu organele de urmărire penală, cu autorităţile prevăzute la alin. (1), în limitele competenţelor acestora, pentru punerea în executare a mandatului de supraveghere tehnică.
 (3) Persoanele care sunt chemate să dea concurs tehnic la executarea măsurilor de supraveghere au obligaţia să păstreze secretul operaţiunii efectuate, sub sancţiunea legii penale.
 (4) Procurorul are obligaţia de a înceta imediat supravegherea tehnică înainte de expirarea duratei mandatului dacă nu mai există temeiurile care au justificat măsura, informând de îndată despre aceasta judecătorul care a emis mandatul.
