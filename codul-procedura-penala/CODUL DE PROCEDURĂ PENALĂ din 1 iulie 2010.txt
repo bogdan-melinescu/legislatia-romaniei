@@ -1304,7 +1304,7 @@ f) reţinerea, predarea sau percheziţionarea trimiterilor poştale;
 g) utilizarea investigatorilor sub acoperire şi a colaboratorilor; 
 h) participarea autorizată la anumite activităţi; 
 i) livrarea supravegheată; 
-j) obţinerea datelor generate sau prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului, altele decât conţinutul comunicaţiilor, reţinute de către aceştia în temeiul legii speciale privind reţinerea datelor generate sau prelucrate de furnizorii de reţele publice de comunicaţii electronice şi de furnizorii de servicii de comunicaţii electronice destinate publicului.
+j) obţinerea datelor de trafic şi de localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului.
 (2) Prin interceptarea comunicaţiilor ori a oricărui tip de comunicare se înţelege interceptarea, accesul, monitorizarea, colectarea sau înregistrarea comunicărilor efectuate prin telefon, sistem informatic ori prin orice alt mijloc de comunicare.
 (3) Prin acces la un sistem informatic se înţelege pătrunderea într-un sistem informatic sau mijloc de stocare a datelor informatice fie direct, fie de la distanţă, prin intermediul unor programe specializate ori prin intermediul unei reţele, în scopul de a identifica probe.
 (4) Prin sistem informatic se înţelege orice dispozitiv sau ansamblu de dispozitive interconectate ori aflate în relaţie funcţională, dintre care unul sau mai multe asigură prelucrarea automată a datelor, cu ajutorul unui program informatic.
@@ -1512,8 +1512,12 @@ c) să garanteze faptul că procurorul, organele de poliţie sau alte autorită�
 
 Articolul 152
 
-Obţinerea datelor generate sau prelucrate de către furnizorii de reţele publice de comunicaţii electronice sau furnizorii de servicii de comunicaţii electronice destinate publicului, altele decât conţinutul comunicaţiilor, şi reţinute de către aceştia 
-(1) Organele de urmărire penală, cu autorizarea prealabilă a judecătorului de drepturi şi libertăţi, pot solicita unui furnizor de reţele publice de comunicaţii electronice sau unui furnizor de servicii de comunicaţii electronice destinate publicului transmiterea datelor reţinute, în baza legii speciale privind reţinerea datelor generate sau prelucrate de furnizorii de reţele publice de comunicaţii electronice şi de furnizorii de servicii de comunicaţii electronice destinate publicului, altele decât conţinutul comunicaţiilor, în cazul în care există o suspiciune rezonabilă cu privire la săvârşirea unei infracţiuni şi există temeiuri pentru a se crede că datele solicitate constituie probe, pentru categoriile de infracţiuni prevăzute de legea privind reţinerea datelor generate sau prelucrate de furnizorii de reţele publice de comunicaţii electronice şi de furnizorii de servicii de comunicaţii electronice destinate publicului. 
+Obţinerea datelor de trafic şi de localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului
+(1) Organele de urmărire penală, cu autorizarea prealabilă a judecătorului de drepturi şi libertăţi, pot solicita date de trafic şi localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului dacă sunt îndeplinite, cumulativ, următoarele condiţii: 
+a) există o suspiciune rezonabilă cu privire la săvârşirea unei infracţiuni dintre cele prevăzute la art. 139 alin. (2) sau a unei infracţiuni de concurenţă neloială, de evadare, de fals în înscrisuri, infracţiuni privind nerespectarea regimului armelor, muniţiilor, materialelor nucleare şi al materiilor explozive, a unei infracţiuni privind nerespectarea dispoziţiilor privind introducerea în ţară de deşeuri şi reziduuri, a unei infracţiuni privind organizarea şi exploatarea jocurilor de noroc ori a unei infracţiuni privind regimul juridic al precursorilor de droguri, şi infracţiuni referitoare la operaţiuni cu produse susceptibile de a avea efecte psihoactive asemănătoare celor determinate de substanţele şi produsele stupefiante sau psihotrope; 
+b) există temeiuri justificate pentru a se crede că datele solicitate constituie probe; 
+c) probele nu ar putea fi obţinute în alt mod sau obţinerea lor ar presupune dificultăţi deosebite ce ar prejudicia ancheta ori există un pericol pentru siguranţa persoanelor sau a unor bunuri de valoare; 
+d) măsura este proporţională cu restrângerea drepturilor şi libertăţilor fundamentale, date fiind particularităţile cauzei, importanţa informaţiilor ori a probelor ce urmează a fi obţinute sau gravitatea infracţiunii.
 (2) Judecătorul de drepturi şi libertăţi se pronunţă în termen de 48 de ore cu privire la solicitarea organelor de urmărire penală de transmitere a datelor, prin încheiere motivată, în camera de consiliu. 
 (3) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului care colaborează cu organele de urmărire penală au obligaţia de a păstra secretul operaţiunii efectuate.
 
@@ -1537,6 +1541,7 @@ Conservarea datelor informatice
 (5) În cazul în care datele referitoare la traficul informaţional se află în posesia mai multor furnizori de reţele publice de comunicaţii electronice ori furnizori de servicii de comunicaţii electronice destinate publicului, furnizorul în posesia sau sub controlul căruia se află datele informatice are obligaţia de a pune, de îndată, la dispoziţia organului de urmărire penală informaţiile necesare identificării celorlalţi furnizori, în vederea cunoaşterii tuturor elementelor din lanţul de comunicare folosit. 
 (6) În termenul prevăzut la alin. (2) şi (3), procurorul care supraveghează sau efectuează urmărirea penală poate, cu autorizarea prealabilă a judecătorului de drepturi şi libertăţi, să solicite unui furnizor de reţele publice de comunicaţii electronice ori unui furnizor de servicii de comunicaţii electronice destinate publicului transmiterea datelor conservate potrivit legii ori poate dispune ridicarea acestei măsuri. Dispoziţiile art. 170 alin. (2^1)-(2^5), alin. (4) şi (5) şi ale art. 171 se aplică în mod corespunzător. 
 (7) Judecătorul de drepturi şi libertăţi se pronunţă în termen de 48 de ore cu privire la solicitarea organelor de urmărire penală de transmitere a datelor, prin încheiere motivată, în camera de consiliu. 
+(7^1) Dispoziţiile alin. (1)-(7) se aplică în mod corespunzător şi cu privire la datele informatice, inclusiv la datele referitoare la traficul informaţional, stocate prin intermediul unui sistem informatic care se află în posesia sau sub controlul altor persoane.
 (8) Până la terminarea urmăririi penale, procurorul este obligat să încunoştinţeze, în scris, persoanele faţă de care se efectuează urmărirea penală şi ale căror date au fost conservate.
 
 Articolul 155
@@ -2145,7 +2150,7 @@ Calea de atac împotriva încheierilor prin care se dispune asupra măsurilor pr
 Articolul 205
 
 Calea de atac împotriva încheierilor prin care se dispune asupra măsurilor preventive în procedura camerei preliminare
-(1) Împotriva încheierilor prin care judecătorul de cameră preliminară dispune asupra măsurilor preventive inculpatul şi procurorul pot formula contestaţie, în termen de 48 de ore de la pronunţare sau, după caz, de la comunicare. Contestaţia se depune la judecătorul de cameră preliminară care a pronunţat încheierea atacată şi se înaintează, împreună cu dosarul cauzei, judecătorului de cameră preliminară de la instanţa ierarhic superioară, în termen de 48 de ore de la înregistrare.
+(1) Împotriva încheierilor prin care judecătorul de cameră preliminară de la instanţa sesizată cu rechizitoriu dispune asupra măsurilor preventive, inculpatul şi procurorul pot formula contestaţie, în termen de 48 de ore de la pronunţare sau, după caz, de la comunicare. Contestaţia se depune la judecătorul de cameră preliminară care a pronunţat încheierea atacată şi se înaintează, împreună cu dosarul cauzei, judecătorului de cameră preliminară de la instanţa ierarhic superioară, în termen de 48 de ore de la înregistrare.
 (2) Contestaţiile împotriva încheierilor prin care judecătorul de cameră preliminară de la Înalta Curte de Casaţie şi Justiţie dispune în procedura camerei preliminare asupra măsurilor preventive se soluţionează de un alt complet al aceleiaşi instanţe, în condiţiile legii.
 (3) Contestaţia formulată împotriva încheierii prin care s-a dispus luarea sau menţinerea unei măsuri preventive ori prin care s-a constatat încetarea de drept a acesteia nu este suspensivă de executare.
 (4) Contestaţia formulată de inculpat se soluţionează în termen de 5 zile de la înregistrare.
@@ -2185,7 +2190,7 @@ Verificarea măsurilor preventive în cursul judecăţii
 (2) Instanţa de judecată verifică din oficiu dacă subzistă temeiurile care au determinat luarea, prelungirea sau menţinerea măsurii preventive, înainte de expirarea duratei acesteia, cu citarea inculpatului.
 (3) Dispoziţiile art. 207 alin. (3)-(5) se aplică în mod corespunzător.
 (4) În tot cursul judecăţii, instanţa, din oficiu, prin încheiere, verifică periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat menţinerea măsurii arestării preventive şi a măsurii arestului la domiciliu dispuse faţă de inculpat sau dacă au apărut temeiuri noi, care să justifice menţinerea acestor măsuri.
-(5) În tot cursul judecăţii, instanţa verifică prin încheiere, din oficiu, periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat luarea măsurii controlului judiciar ori a controlului judiciar pe cauţiune sau dacă au apărut temeiuri noi, care să justifice menţinerea acestei măsuri. Dispoziţiile art. 207 alin. (3)-(5) se aplică în mod corespunzător.
+(5) În tot cursul judecăţii, instanţa verifică, prin încheiere, din oficiu, periodic, dar nu mai târziu de 60 de zile, dacă subzistă temeiurile care au determinat luarea măsurii controlului judiciar ori a controlului judiciar pe cauţiune sau dacă au apărut temeiuri noi, care să justifice menţinerea acestei măsuri. Dispoziţiile art. 207 alin. (3)-(5) se aplică în mod corespunzător.
 
 Secţiunea a 2-a Reţinerea
 
@@ -2341,7 +2346,7 @@ Durata controlului judiciar
 (2) În cursul urmăririi penale, controlul judiciar poate fi prelungit de către procuror, prin ordonanţă, dacă se menţin temeiurile care au determinat luarea măsurii sau au apărut temeiuri noi care să justifice prelungirea acestuia, fiecare prelungire neputând să depăşească 60 de zile. 
 (3) Dispoziţiile alin. (2) sunt aplicabile şi în cazul în care măsura a fost luată de către judecătorul de drepturi şi libertăţi. 
 (4) Ordonanţa procurorului prin care, în condiţiile alin. (2) sau (3), s-a prelungit măsura controlului judiciar se comunică în aceeaşi zi inculpatului. 
-(5) Împotriva ordonanţei procurorului prin care, în condiţiile prevăzute de alin. (2) şi (3), sa prelungit măsura controlului judiciar, inculpatul poate face plângere la judecătorul de drepturi şi libertăţi de la instanţa căreia i-ar reveni competenţa să judece cauza în fond, dispoziţiile art. 213 aplicându-se în mod corespunzător. 
+(5) Împotriva ordonanţei procurorului prin care, în condiţiile prevăzute la alin. (2) şi (3), s-a prelungit măsura controlului judiciar, inculpatul poate face plângere la judecătorul de drepturi şi libertăţi de la instanţa căreia i-ar reveni competenţa să judece cauza în fond, dispoziţiile art. 213 aplicându-se în mod corespunzător. 
 (6) În cursul urmăririi penale, durata măsurii controlului judiciar nu poate să depăşească un an, dacă pedeapsa prevăzută de lege este amenda sau închisoarea de cel mult 5 ani, respectiv 2 ani, dacă pedeapsa prevăzută de lege este detenţiunea pe viaţă sau închisoarea mai mare de 5 ani. 
 (7) Judecătorul de cameră preliminară, în procedura de cameră preliminară, sau instanţa, în cursul judecăţii, poate dispune luarea măsurii controlului judiciar faţă de inculpat pe o durată ce nu poate depăşi 60 de zile. 
 (8) În cursul judecăţii în primă instanţă, durata totală a controlului judiciar nu poate depăşi un termen rezonabil şi, în toate cazurile, nu poate depăşi 5 ani de la momentul trimiterii în judecată. 
@@ -3750,27 +3755,29 @@ Articolul 344
 
 Măsurile premergătoare 
 (1) După sesizarea instanţei prin rechizitoriu, dosarul se repartizează aleatoriu judecătorului de cameră preliminară. 
-(2) Copia certificată a rechizitoriului şi, după caz, traducerea autorizată a acestuia se comunică inculpatului la locul de deţinere ori, după caz, la adresa unde locuieşte sau la adresa la care a solicitat comunicarea actelor de procedură, aducându-i-se totodată la cunoştinţă obiectul procedurii în camera preliminară, dreptul de a-şi angaja un apărător şi termenul în care, de la data comunicării, poate formula în scris cereri şi excepţii cu privire la legalitatea administrării probelor şi a efectuării actelor de către organele de urmărire penală. Termenul este stabilit de către judecătorul de cameră preliminară, în funcţie de complexitatea şi particularităţile cauzei, dar nu poate fi mai scurt de 20 de zile. 
-(3) În cazurile prevăzute de art. 90, judecătorul de cameră preliminară ia măsuri pentru desemnarea unui apărător din oficiu şi stabileşte, în funcţie de complexitatea şi particularităţile cauzei, termenul în care acesta poate formula în scris cereri şi excepţii cu privire la legalitatea administrării probelor şi a efectuării actelor de către organele de urmărire penală, care nu poate fi mai scurt de 20 de zile. 
-(4) La expirarea termenelor prevăzute la alin. (2) şi (3), judecătorul de cameră preliminară comunică cererile şi excepţiile formulate de către inculpat ori excepţiile ridicate din oficiu parchetului, care poate răspunde în scris, în termen de 10 zile de la comunicare.
+(2) Copia certificată a rechizitoriului şi, după caz, traducerea autorizată a acestuia se comunică inculpatului la locul de deţinere ori, după caz, la adresa unde locuieşte sau la adresa la care a solicitat comunicarea actelor de procedură. Inculpatului, celorlalte părţi şi persoanei vătămate li se aduc la cunoştinţă obiectul procedurii în camera preliminară, dreptul de a-şi angaja un apărător şi termenul în care, de la data comunicării, pot formula în scris cereri şi excepţii cu privire la legalitatea sesizării instanţei, legalitatea administrării probelor şi a efectuării actelor de către organele de urmărire penală. Termenul este stabilit de către judecătorul de cameră preliminară, în funcţie de complexitatea şi particularităţile cauzei, dar nu poate fi mai scurt de 20 de zile.
+(3) În cazurile prevăzute la art. 90, judecătorul de cameră preliminară ia măsuri pentru desemnarea unui apărător din oficiu şi stabileşte, în funcţie de complexitatea şi particularităţile cauzei, termenul în care acesta poate formula în scris cereri şi excepţii cu privire la legalitatea sesizării instanţei, legalitatea administrării probelor şi a efectuării actelor de către organele de urmărire penală, care nu poate fi mai scurt de 20 de zile.
+(4) La expirarea termenelor prevăzute la alin. (2) şi (3), dacă s-au formulat cereri sau excepţii ori dacă a ridicat excepţii din oficiu, judecătorul de cameră preliminară stabileşte termenul pentru soluţionarea acestora, cu citarea părţilor şi a persoanei vătămate şi cu participarea procurorului.
 
 Articolul 345
 
-Procedura în camera preliminară 
-(1) Dacă s-au formulat cereri şi excepţii ori a ridicat din oficiu excepţii, judecătorul de cameră preliminară se pronunţă asupra acestora, prin încheiere motivată, în camera de consiliu, fără participarea procurorului şi a inculpatului, la expirarea termenului prevăzut la art. 344 alin. (4). 
-(2) În cazul în care judecătorul de cameră preliminară constată neregularităţi ale actului de sesizare, în cazul în care sancţionează potrivit art. 280-282 actele de urmărire penală efectuate cu încălcarea legii ori dacă exclude una sau mai multe probe administrate, încheierea se comunică de îndată parchetului care a emis rechizitoriul. 
-(3) În termen de 5 zile de la comunicare, procurorul remediază neregularităţile actului de sesizare şi comunică judecătorului de cameră preliminară dacă menţine dispoziţia de trimitere în judecată ori solicită restituirea cauzei.
+Procedura de judecată în camera preliminară 
+(1) La termenul stabilit conform art. 344 alin. (4), judecătorul de cameră preliminară soluţionează cererile şi excepţiile formulate ori excepţiile ridicate din oficiu, în camera de consiliu, pe baza lucrărilor şi a materialului din dosarul de urmărire penală şi a oricăror înscrisuri noi prezentate, ascultând concluziile părţilor şi ale persoanei vătămate, dacă sunt prezente, precum şi ale procurorului. 
+(2) Judecătorul de cameră preliminară se pronunţă în camera de consiliu, prin încheiere, care se comunică de îndată procurorului, părţilor şi persoanei vătămate. 
+(3) În cazul în care judecătorul de cameră preliminară constată neregularităţi ale actului de sesizare sau în cazul în care sancţionează potrivit art. 280-282 actele de urmărire penală efectuate cu încălcarea legii ori dacă exclude una sau mai multe probe administrate, în termen de 5 zile de la comunicarea încheierii, procurorul remediază neregularităţile actului de sesizare şi comunică judecătorului de cameră preliminară dacă menţine dispoziţia de trimitere în judecată ori solicită restituirea cauzei.
 
 Articolul 346
 
 Soluţiile 
-(1) Judecătorul de cameră preliminară hotărăşte prin încheiere motivată, în camera de consiliu, fără participarea procurorului şi a inculpatului. Încheierea se comunică de îndată procurorului şi inculpatului. 
-(2) Dacă nu s-au formulat cereri şi excepţii ori nu a ridicat din oficiu excepţii, la expirarea termenelor prevăzute la art. 344 alin. (2) sau (3), judecătorul de cameră preliminară constată legalitatea sesizării instanţei, a administrării probelor şi a efectuării actelor de urmărire penală şi dispune începerea judecăţii. 
+(1) Dacă nu s-au formulat cereri şi excepţii în termenele prevăzute la art. 344 alin. (2) şi (3) şi nici nu a ridicat din oficiu excepţii, la expirarea acestor termene, judecătorul de cameră preliminară constată legalitatea sesizării instanţei, a administrării probelor şi a efectuării actelor de urmărire penală şi dispune începerea judecăţii. Judecătorul de cameră preliminară se pronunţă în camera de consiliu, fără citarea părţilor şi a persoanei vătămate şi fără participarea procurorului, prin încheiere, care se comunică de îndată acestora.
+(2) Dacă respinge cererile şi excepţiile invocate ori ridicate din oficiu, în condiţiile art. 345 alin. (1) şi (2), prin aceeaşi încheiere judecătorul de cameră preliminară constată legalitatea sesizării instanţei, a administrării probelor şi a efectuării actelor de urmărire penală şi dispune începerea judecăţii.
 (3) Judecătorul de cameră preliminară restituie cauza la parchet dacă: 
 a) rechizitoriul este neregulamentar întocmit, iar neregularitatea nu a fost remediată de procuror în termenul prevăzut la art. 345 alin. (3), dacă neregularitatea atrage imposibilitatea stabilirii obiectului sau limitelor judecăţii; 
 b) a exclus toate probele administrate în cursul urmăririi penale; 
 c) procurorul solicită restituirea cauzei, în condiţiile art. 345 alin. (3), ori nu răspunde în termenul prevăzut de aceleaşi dispoziţii. 
 (4) În toate celelalte cazuri în care a constatat neregularităţi ale actului de sesizare, a exclus una sau mai multe probe administrate ori a sancţionat potrivit art. 280-282 actele de urmărire penală efectuate cu încălcarea legii, judecătorul de cameră preliminară dispune începerea judecăţii. 
+(4^1) În cazurile prevăzute la alin. (3) lit. a) şi c) şi la alin. (4), judecătorul de cameră preliminară se pronunţă prin încheiere, în camera de consiliu, cu citarea părţilor şi a persoanei vătămate şi cu participarea procurorului. Încheierea se comunică de îndată procurorului, părţilor şi persoanei vătămate.
+(4^2) În cazul prevăzut la alin. (3) lit. b), restituirea cauzei la procuror se dispune prin încheierea prevăzută la art. 345 alin. (2).
 (5) Probele excluse nu pot fi avute în vedere la judecata în fond a cauzei. 
 (6) Dacă apreciază că instanţa sesizată nu este competentă, judecătorul de cameră preliminară procedează potrivit art. 50 şi 51, care se aplică în mod corespunzător. 
 (7) Judecătorul de cameră preliminară care a dispus începerea judecăţii exercită funcţia de judecată în cauză.
@@ -3778,9 +3785,9 @@ c) procurorul solicită restituirea cauzei, în condiţiile art. 345 alin. (3), 
 Articolul 347
 
 Contestaţia 
-(1) În termen de 3 zile de la comunicarea încheierii prevăzute la art. 346 alin. (1), procurorul şi inculpatul pot face contestaţie cu privire la modul de soluţionare a cererilor şi a excepţiilor, precum şi împotriva soluţiilor prevăzute la art. 346 alin. (3)-(5). 
+(1) În termen de 3 zile de la comunicarea încheierilor prevăzute la art. 346 alin. (1)-(4^2), procurorul, părţile şi persoana vătămată pot face contestaţie. Contestaţia poate privi şi modul de soluţionare a cererilor şi a excepţiilor.
 (2) Contestaţia se judecă de către judecătorul de cameră preliminară de la instanţa ierarhic superioară celei sesizate. Când instanţa sesizată este Înalta Curte de Casaţie şi Justiţie, contestaţia se judecă de către completul competent, potrivit legii. 
-(3) (*) Dispoziţiile art. 343-346 se aplică în mod corespunzător.
+(3) Contestaţia se soluţionează în camera de consiliu, cu citarea părţilor şi a persoanei vătămate şi cu participarea procurorului. Dispoziţiile art. 345 şi 346 se aplică în mod corespunzător.
 
 	Notă
 	──────────
@@ -3794,7 +3801,7 @@ Articolul 348
 
 Măsurile preventive în procedura de cameră preliminară
 (1) Judecătorul de cameră preliminară se pronunţă, la cerere sau din oficiu, cu privire la luarea, menţinerea, înlocuirea, revocarea sau încetarea de drept a măsurilor preventive.
-(2) În cauzele în care faţă de inculpat s-a dispus o măsură preventivă, judecătorul de cameră preliminară verifică legalitatea şi temeinicia măsurii preventive, procedând potrivit dispoziţiilor art. 207.
+(2) În cauzele în care faţă de inculpat s-a dispus o măsură preventivă, judecătorul de cameră preliminară de la instanţa sesizată cu rechizitoriu sau, după caz, judecătorul de cameră preliminară de la instanţa ierarhic superioară ori completul competent de la Înalta Curte de Casaţie şi Justiţie, învestit cu soluţionarea contestaţiei, verifică legalitatea şi temeinicia măsurii preventive, procedând potrivit dispoziţiilor art. 207.
 
 Titlul III Judecata
 
@@ -3961,7 +3968,7 @@ Suspendarea judecăţii
 (5) Contestaţia nu suspendă executarea şi se judecă în termen de 3 zile de la primirea dosarului.
 (6) Procesul penal se reia din oficiu de îndată ce inculpatul poate participa la judecată sau la încheierea procedurii de mediere, potrivit legii.
 (7) Instanţa de judecată este obligată să verifice periodic, dar nu mai târziu de 3 luni, dacă mai subzistă cauza care a determinat suspendarea judecăţii.
-(8) Dacă inculpatul se află în arest la domiciliu sau este arestat preventiv, se aplică în mod corespunzător prevederile art. 208.
+(8) Dacă inculpatul se află în arest la domiciliu sau este arestat preventiv ori faţă de inculpat s-a dispus măsura controlului judiciar sau a controlului judiciar pe cauţiune, se aplică în mod corespunzător prevederile art. 208.
 (9) Ridicarea unei excepţii de neconstituţionalitate nu suspendă judecarea cauzei.
 
 Articolul 368
@@ -4627,7 +4634,7 @@ Procedura de comunicare
 Articolul 440
 
 Admiterea în principiu
-(1) Admisibilitatea cererii de recurs în casaţie se examinează în camera de consiliu de un complet format din un judecător, după depunerea raportului magistratului-asistent şi atunci când procedura de comunicare este legal îndeplinită.
+(1) Admisibilitatea cererii de recurs în casaţie se examinează în camera de consiliu de un complet format din un judecător, după depunerea raportului magistratului-asistent şi atunci când procedura de comunicare este legal îndeplinită, fără citarea părţilor şi fără participarea procurorului.
 (2) Dacă cererea de recurs în casaţie nu este făcută în termenul prevăzut de lege sau dacă nu s-au respectat dispoziţiile art. 434, art. 436 alin. (1), (2) şi (6), art. 437 şi 438 ori dacă cererea este vădit nefondată, instanţa respinge, prin încheiere definitivă, cererea de recurs în casaţie.
 (3) Dacă cererea de recurs în casaţie a fost retrasă, instanţa ia act de retragere, prin încheiere.
 (4) În cazul în care instanţa constată că cererea îndeplineşte condiţiile prevăzute la art. 434-438, dispune prin încheiere admiterea în principiu a cererii de recurs în casaţie şi trimite cauza în vederea judecării recursului în casaţie.
@@ -4944,7 +4951,7 @@ Articolul 476
 
 Procedura de judecată 
 (1) Sesizarea Înaltei Curţi de Casaţie şi Justiţie se face de către completul de judecată după dezbateri contradictorii, dacă sunt îndeplinite condiţiile prevăzute la art. 475, prin încheiere care nu este supusă niciunei căi de atac. Dacă prin încheiere se dispune sesizarea, aceasta va cuprinde motivele care susţin admisibilitatea sesizării potrivit dispoziţiilor art. 475, punctul de vedere al completului de judecată şi al părţilor. 
-(2) Prin încheierea prevăzută la alin. (1), cauza poate fi suspendată până la pronunţarea hotărârii prealabile pentru dezlegarea chestiunii de drept. În cazul în care nu s-a dispus suspendarea odată cu sesizarea, iar cercetarea judecătorească este finalizată înainte ca Înalta Curte de Casaţie şi Justiţie să se pronunţe asupra sesizării, instanţa suspendă dezbaterile până la pronunţarea deciziei prevăzute la art. 477 alin. (1). În cazul în care inculpatul se află în arest la domiciliu sau este arestat preventiv, se aplică în mod corespunzător prevederile art. 208 pe toată durata suspendării. 
+(2) Prin încheierea prevăzută la alin. (1), cauza poate fi suspendată până la pronunţarea hotărârii prealabile pentru dezlegarea chestiunii de drept. În cazul în care nu s-a dispus suspendarea odată cu sesizarea, iar cercetarea judecătorească este finalizată înainte ca Înalta Curte de Casaţie şi Justiţie să se pronunţe asupra sesizării, instanţa suspendă dezbaterile până la pronunţarea deciziei prevăzute la art. 477 alin. (1). În cazul în care inculpatul se află în arest la domiciliu sau este arestat preventiv ori dacă faţă de acesta s-a dispus măsura controlului judiciar sau a controlului judiciar pe cauţiune, se aplică în mod corespunzător prevederile art. 208 pe toată durata suspendării.
 (3) După înregistrarea cauzei la Înalta Curte de Casaţie şi Justiţie, încheierea de sesizare se publică pe pagina de internet a acestei instanţe. 
 (4) Cauzele similare, aflate pe rolul instanţelor judecătoreşti, pot fi suspendate până la soluţionarea sesizării. 
 (5) Repartizarea sesizării este făcută de preşedintele sau, în lipsa acestuia, de unul dintre vicepreşedinţii Înaltei Curţi de Casaţie şi Justiţie ori de persoana desemnată de aceştia. 
@@ -5419,6 +5426,7 @@ Activităţile ce pot fi efectuate în procedura urmăririi
 (1) În vederea identificării, căutării, localizării şi prinderii persoanelor date în urmărire pot fi efectuate, în condiţiile prevăzute de lege, următoarele activităţi:
 a) supravegherea tehnică;
 b) reţinerea, predarea şi percheziţionarea corespondenţei şi a obiectelor;
+b^1) obţinerea datelor de trafic şi de localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului;
 c) percheziţia;
 d) ridicarea de obiecte sau înscrisuri;
 e) [ABROGAT]monitorizarea tranzacţiilor financiare şi dezvăluirea datelor financiare.[ABROGAT]
@@ -5427,9 +5435,9 @@ e) [ABROGAT]monitorizarea tranzacţiilor financiare şi dezvăluirea datelor fin
 
 Articolul 524
 
-Supravegherea tehnică, reţinerea, predarea şi percheziţionarea corespondenţei şi a obiectelor şi percheziţia în procedura dării în urmărire 
-(1) Supravegherea tehnică, reţinerea, predarea şi percheziţionarea corespondenţei şi a obiectelor şi percheziţia pot fi dispuse, la cererea procurorului care supraveghează activitatea organelor de poliţie care efectuează urmărirea persoanei date în urmărire, de judecătorul de drepturi şi libertăţi de la instanţa competentă, dacă acesta apreciază că identificarea, căutarea, localizarea şi prinderea persoanelor date în urmărire nu pot fi făcute prin alte mijloace ori ar fi mult întârziate. 
-(2) Dispoziţiile art. 138-144, respectiv art. 147 şi art. 157-160 se aplică în mod corespunzător.
+Supravegherea tehnică, reţinerea, predarea şi percheziţionarea corespondenţei şi a obiectelor, percheziţia şi obţinerea datelor de trafic şi de localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului în procedura dării în urmărire 
+(1) Supravegherea tehnică, reţinerea, predarea şi percheziţionarea corespondenţei şi a obiectelor, percheziţia şi obţinerea datelor de trafic şi de localizare prelucrate de către furnizorii de reţele publice de comunicaţii electronice ori furnizorii de servicii de comunicaţii electronice destinate publicului pot fi dispuse, la cererea procurorului care supraveghează activitatea organelor de poliţie care efectuează urmărirea persoanei date în urmărire de judecătorul de drepturi şi libertăţi de la instanţa competentă, dacă acesta apreciază că identificarea, căutarea, localizarea şi prinderea persoanelor date în urmărire nu pot fi făcute prin alte mijloace ori ar fi mult întârziate. 
+(2) Dispoziţiile art. 138-144, respectiv art. 147, art. 152 şi art. 157-160 se aplică în mod corespunzător.
 
 Articolul 525
 
