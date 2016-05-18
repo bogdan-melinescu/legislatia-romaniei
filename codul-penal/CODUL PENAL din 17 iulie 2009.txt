@@ -1508,7 +1508,7 @@ d) 5 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închi
 e) 3 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii care nu depăşeşte un an sau amenda.
 (2) Termenele prevăzute în prezentul articol încep să curgă de la data săvârşirii infracţiunii. În cazul infracţiunilor continue termenul curge de la data încetării acţiunii sau inacţiunii, în cazul infracţiunilor continuate, de la data săvârşirii ultimei acţiuni sau inacţiuni, iar în cazul infracţiunilor de obicei, de la data săvârşirii ultimului act.
 (3) În cazul infracţiunilor progresive, termenul de prescripţie a răspunderii penale începe să curgă de la data săvârşirii acţiunii sau inacţiunii şi se calculează în raport cu pedeapsa corespunzătoare rezultatului definitiv produs.
-(4) În cazul infracţiunilor contra libertăţii şi integrităţii sexuale, săvârşite faţă de un minor, termenul de prescripţie începe să curgă de la data la care acesta a devenit major. Dacă minorul a decedat înainte de împlinirea majoratului, termenul de prescripţie începe să curgă de la data decesului.
+(4) În cazul infracţiunilor contra libertăţii şi integrităţii sexuale, al celor de trafic şi exploatare a persoanelor vulnerabile, precum şi al infracţiunii de pornografie infantilă, săvârşite faţă de un minor, termenul de prescripţie începe să curgă de la data la care acesta a devenit major. Dacă minorul a decedat înainte de împlinirea majoratului, termenul de prescripţie începe să curgă de la data decesului.
 
 Articolul 155
 
@@ -1981,7 +1981,12 @@ Articolul 211
 
 Traficul de minori
 (1) Recrutarea, transportarea, transferarea, adăpostirea sau primirea unui minor, în scopul exploatării acestuia, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Dacă fapta a fost săvârşită în condiţiile art. 210 alin. (1), pedeapsa este închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi.
+(2) Pedeapsa este închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi atunci când: 
+a) fapta a fost săvârşită în condiţiile art. 210 alin. (1); 
+b) fapta a fost săvârşită de către un funcţionar public în exerciţiul atribuţiilor de serviciu; 
+c) fapta a pus în pericol viaţa minorului; 
+d) fapta a fost săvârşită de un membru de familie al minorului; 
+e) fapta a fost săvârşită de către o persoană în a cărei îngrijire, ocrotire, educare, pază sau tratament se afla minorul ori de o persoană care a abuzat de poziţia sa recunoscută de încredere sau de autoritate asupra minorului.
 (3) Consimţământul persoanei victimă a traficului nu constituie cauză justificativă.
 
 Articolul 212
@@ -2016,10 +2021,14 @@ Articolul 216
 Folosirea serviciilor unei persoane exploatate
 Fapta de a utiliza serviciile prevăzute în art. 182, prestate de o persoană despre care beneficiarul ştie că este victimă a traficului de persoane ori a traficului de minori, se pedepseşte cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă fapta nu constituie o infracţiune mai gravă.
 
+Articolul 216^1
+
+Folosirea prostituţiei infantileÎntreţinerea oricărui act de natură sexuală cu un minor care practică prostituţia se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă, dacă fapta nu constituie o infracţiune mai gravă.
+
 Articolul 217
 
 Sancţionarea tentativei
-Tentativa la infracţiunile prevăzute în art. 209-211 şi art. 213 alin. (2) se pedepseşte.
+Tentativa la infracţiunile prevăzute în art. 209-211, art. 213 alin. (2), art. 216 şi 216^1 se pedepseşte.
 
 Capitolul VIII Infracţiuni contra libertăţii şi integrităţii sexuale
 
@@ -2032,7 +2041,7 @@ Violul
 (3) Pedeapsa este închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi atunci când:
 a) victima se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului;
 b) victima este rudă în linie directă, frate sau soră;
-c) victima nu a împlinit vârsta de 16 ani;
+c) victima este un minor;
 d) fapta a fost comisă în scopul producerii de materiale pornografice;
 e) fapta a avut ca urmare vătămarea corporală;
 f) fapta a fost săvârşită de două sau mai multe persoane împreună.
@@ -2047,7 +2056,7 @@ Agresiunea sexuală
 (2) Pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi atunci când:
 a) victima se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului;
 b) victima este rudă în linie directă, frate sau soră;
-c) victima nu a împlinit vârsta de 16 ani;
+c) victima este un minor;
 d) fapta a fost comisă în scopul producerii de materiale pornografice;
 e) fapta a avut ca urmare vătămarea corporală;
 f) fapta a fost săvârşită de două sau mai multe persoane împreună.
@@ -2061,12 +2070,18 @@ Articolul 220
 Actul sexual cu un minor
 (1) Raportul sexual, actul sexual oral sau anal, precum şi orice alte acte de penetrare vaginală sau anală comise cu un minor cu vârsta între 13 şi 15 ani se pedepsesc cu închisoarea de la unu la 5 ani.
 (2) Fapta prevăzută în alin. (1), săvârşită asupra unui minor care nu a împlinit vârsta de 13 ani, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
-(3) Fapta prevăzută în alin. (1), comisă de un major cu un minor cu vârsta între 13 şi 18 ani, când majorul a abuzat de autoritatea ori influenţa sa asupra victimei, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
-(4) Fapta prevăzută în alin. (1)-(3) se sancţionează cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi, atunci când:
-a) minorul este rudă în linie directă, frate sau soră;
-b) minorul se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului;
-c) a fost comisă în scopul producerii de materiale pornografice.
+(3) Fapta prevăzută în alin. (1), comisă de un major cu un minor cu vârsta între 15 şi 18 ani, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi dacă: 
+a) minorul este membru de familie al majorului; 
+b) minorul se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului sau acesta a abuzat de poziţia sa recunoscută de încredere sau de autoritate asupra minorului ori de situaţia deosebit de vulnerabilă a acestuia, ca urmare a unui handicap psihic sau fizic ori ca urmare a unei situaţii de dependenţă; 
+c) fapta a pus în pericol viaţa minorului; 
+d) a fost comisă în scopul producerii de materiale pornografice.
+(4) Fapta prevăzută în alin. (1) şi (2) se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi, atunci când: 
+a) minorul este membru de familie; 
+b) minorul se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului sau acesta a abuzat de poziţia sa recunoscută de încredere sau de autoritate asupra minorului; 
+c) fapta a pus în pericol viaţa minorului; 
+d) a fost comisă în scopul producerii de materiale pornografice.
 (5) Faptele prevăzute în alin. (1) şi alin. (2) nu se sancţionează dacă diferenţa de vârstă nu depăşeşte 3 ani.
+(6) Tentativa la infracţiunile prevăzute în alin. (1)-(4) se pedepseşte.
 
 Articolul 221
 
@@ -2076,9 +2091,11 @@ Coruperea sexuală a minorilor
 a) minorul este rudă în linie directă, frate sau soră;
 b) minorul se află în îngrijirea, ocrotirea, educarea, paza sau tratamentul făptuitorului;
 c) fapta a fost comisă în scopul producerii de materiale pornografice.
+d) fapta a pus în pericol viaţa minorului.
 (3) Actul sexual de orice natură săvârşit de un major în prezenţa unui minor care nu a împlinit vârsta de 13 ani se pedepseşte cu închisoare de la 6 luni la 2 ani sau cu amendă.
 (4) Determinarea de către un major a unui minor care nu a împlinit vârsta de 13 ani să asiste la comiterea unor acte cu caracter exhibiţionist ori la spectacole sau reprezentaţii în cadrul cărora se comit acte sexuale de orice natură, precum şi punerea la dispoziţia acestuia de materiale cu caracter pornografic se pedepsesc cu închisoare de la 3 luni la un an sau cu amendă.
 (5) Faptele prevăzute în alin. (1) nu se sancţionează dacă diferenţa de vârstă nu depăşeşte 3 ani.
+(6) Tentativa la infracţiunile prevăzute în alin. (1) şi (2) se pedepseşte.
 
 Articolul 222
 
@@ -2352,6 +2369,14 @@ Articolul 256
 Tulburarea de posesie
 (1) Ocuparea, în întregime sau în parte, fără drept, prin violenţă sau ameninţare ori prin desfiinţarea sau strămutarea semnelor de hotar, a unui imobil aflat în posesia altuia se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
 (2) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
+
+Capitolul VI 
+
+Infracţiuni care au produs consecinţe deosebit de grave
+
+Articolul 256^1
+
+Faptele care au produs consecinţe deosebit de graveDacă faptele prevăzute la art. 228, 229, 233, 234, 235, 239, 242, 244, 245, 247, art. 249-251 au produs consecinţe deosebit de grave, limitele speciale ale pedepsei prevăzute de lege se majorează cu jumătate.
 
 Titlul III Infracţiuni privind autoritatea şi frontiera de stat
 
@@ -2812,6 +2837,7 @@ Articolul 315
 Emiterea frauduloasă de monedă
 (1) Confecţionarea de monedă autentică prin folosirea de instalaţii sau materiale destinate acestui scop, cu încălcarea condiţiilor stabilite de autorităţile competente sau fără acordul acestora, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
 (2) Cu aceeaşi pedeapsă se sancţionează punerea în circulaţie a monedei confecţionate în condiţiile alin. (1), precum şi primirea, deţinerea sau transmiterea acesteia, în vederea punerii ei în circulaţie.
+(3) Tentativa se pedepseşte.
 
 Articolul 316
 
@@ -3035,7 +3061,9 @@ Nerespectarea regimului materialelor nucleare sau al altor materii radioactive
 (1) Primirea, deţinerea, folosirea, cedarea, modificarea, înstrăinarea, dispersarea, expunerea, producţia, procesarea, manipularea, depozitarea intermediară, importul, exportul ori depozitarea finală, transportul sau deturnarea materialelor nucleare ori a altor materii radioactive, precum şi orice operaţie privind circulaţia acestora, fără drept, se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea exercitării unor drepturi. 
 (2) Sustragerea materialelor nucleare sau a altor materii radioactive se pedepseşte cu închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi. 
 (3) Dacă faptele prevăzute la alin. (1) şi (2) au pus în pericol alte persoane sau bunuri, au produs vătămarea corporală a uneia ori mai multor persoane, pedeapsa este închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi. 
-(4) În cazul în care faptele prevăzute la alin. (1) şi (2) au avut ca urmare moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi. (5) Dacă faptele prevăzute la alin. (1), (3) şi (4) au fost săvârşite din culpă, limitele speciale ale pedepsei se reduc la jumătate.
+(4) În cazul în care faptele prevăzute la alin. (1) şi (2) au avut ca urmare moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi. 
+(5) Dacă faptele prevăzute la alin. (1), (3) şi (4) au fost săvârşite din culpă, limitele speciale ale pedepsei se reduc la jumătate.
+(6) Prin excepţie de la dispoziţiile art. 137 alin. (2), în cazul infracţiunii prevăzute în prezentul articol, suma corespunzătoare unei zile-amendă pentru persoana juridică este cuprinsă între 500 lei şi 25.000 lei.
 
 Articolul 346
 
@@ -3108,9 +3136,11 @@ Răspândirea bolilor la animale sau plante
 
 Articolul 356
 
-Infectarea apei
-(1) Infectarea prin orice mijloace a surselor sau reţelelor de apă, dacă apa devine dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la 6 luni la 3 ani sau cu amendă.
-(2) Tentativa se pedepseşte.
+Infectarea apei 
+(1) Infectarea prin orice mijloace a surselor sau reţelelor de apă, dacă apa devine dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la unu la 5 ani. 
+(2) Dacă fapta este săvârşită din culpă, pedeapsa este închisoarea de la 6 luni la 3 ani sau amenda. 
+(3) Prin excepţie de la dispoziţiile art. 137 alin. (2), în cazul infracţiunii prevăzute în prezentul articol, suma corespunzătoare unei zile-amendă pentru persoana juridică este cuprinsă între 500 lei şi 25.000 lei. 
+(4) Tentativa se pedepseşte.
 
 Articolul 357
 
@@ -3232,10 +3262,17 @@ Articolul 373
 Articolul 374
 
 Pornografia infantilă
-(1) Producerea, deţinerea în vederea expunerii sau distribuirii, achiziţionarea, stocarea, expunerea, promovarea, distribuirea, precum şi punerea la dispoziţie, în orice mod, de materiale pornografice cu minori se pedepsesc cu închisoarea de la un an la 5 ani.
+(1) Producerea, deţinerea, procurarea, stocarea, expunerea, promovarea, distribuirea, precum şi punerea la dispoziţie, în orice mod, de materiale pornografice cu minori se pedepsesc cu închisoarea de la un an la 5 ani.
+(1^1) Cu pedeapsa prevăzută la alin. (1) se pedepseşte şi îndemnarea sau recrutarea unui minor în scopul participării lui în cadrul unui spectacol pornografic, obţinerea de foloase de pe urma unui astfel de spectacol în cadrul căruia participă minori sau exploatarea unui minor în orice alt fel pentru realizarea de spectacole pornografice.
+(1^2) Vizionarea de spectacole pornografice în cadrul cărora participă minori se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
 (2) Dacă faptele prevăzute în alin. (1) au fost săvârşite printr-un sistem informatic sau alt mijloc de stocare a datelor informatice, pedeapsa este închisoarea de la 2 la 7 ani.
 (3) Accesarea, fără drept, de materiale pornografice cu minori, prin intermediul sistemelor informatice sau altor mijloace de comunicaţii electronice, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
-(4) Prin materiale pornografice cu minori se înţelege orice material care prezintă un minor având un comportament sexual explicit sau care, deşi nu prezintă o persoană reală, simulează, în mod credibil, un minor având un astfel de comportament.
+(3^1) Dacă faptele prevăzute la alin. (1), (1^1), (1^2) şi (2) au fost săvârşite în următoarele împrejurări: 
+a) de către un membru de familie; 
+b) de către o persoană în a cărei îngrijire, ocrotire, educare, pază sau tratament se afla minorul sau de o persoană care a abuzat de poziţia sa recunoscută de încredere sau de autoritate asupra minorului; 
+c) fapta a pus în pericol viaţa minorului, limitele speciale ale pedepselor se majorează cu o treime.
+(4) Prin materiale pornografice cu minori se înţelege orice material care prezintă un minor ori o persoană majoră drept un minor, având un comportament sexual explicit sau care, deşi nu prezintă o persoană reală, simulează, în mod credibil, un minor având un astfel de comportament, precum şi orice reprezentare a organelor genitale ale unui copil cu scop sexual.
+(4^1) Prin spectacol pornografic se înţelege expunerea în direct adresată unui public, inclusiv prin tehnologia informaţiilor şi comunicaţiilor, a unui copil implicat într-un comportament sexual explicit ori a organelor genitale ale unui copil, cu scop sexual.
 (5) Tentativa se pedepseşte.
 
 Articolul 375
