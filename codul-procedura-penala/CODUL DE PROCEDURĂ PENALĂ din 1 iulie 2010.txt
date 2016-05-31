@@ -2454,7 +2454,7 @@ Durata arestului la domiciliu
 (7) Judecătorul de drepturi şi libertăţi admite sau respinge propunerea procurorului prin încheiere motivată. 
 (8) Dosarul cauzei se restituie organului de urmărire penală în termen de 24 de ore de la expirarea termenului de formulare a contestaţiei. 
 (9) Durata maximă a măsurii arestului la domiciliu, în cursul urmăririi penale, este de 180 de zile. 
-(10) Durata privării de libertate dispusă prin măsura arestului la domiciliu nu se ia în considerare pentru calculul duratei maxime a măsurii arestării preventive a inculpatului în cursul urmăririi penale. 
+(10) Durata privării de libertate dispusă prin măsura arestului la domiciliu se ia în considerare pentru calculul duratei maxime a măsurii arestării preventive a inculpatului în cursul urmăririi penale.
 (11) Dispoziţiile art. 219 alin. (4)-(6) se aplică în mod corespunzător. 
 (12) În procedura de cameră preliminară şi în cursul judecăţii, măsura arestului la domiciliu poate fi dispusă pe o perioadă de cel mult 30 de zile. Dispoziţiile art. 239 se aplică în mod corespunzător.
 
