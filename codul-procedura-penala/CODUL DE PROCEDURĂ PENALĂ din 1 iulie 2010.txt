@@ -4709,7 +4709,7 @@ Recursul în casaţie urmăreşte să supună Înaltei Curţi de Casaţie şi Ju
 Articolul 434
 
 Hotărârile supuse recursului în casaţie
-(1) Pot fi atacate cu recurs în casaţie deciziile pronunţate de curţile de apel, ca instanţe de apel, cu excepţia deciziilor prin care s-a dispus rejudecarea cauzelor.
+(1) Pot fi atacate cu recurs în casaţie deciziile pronunţate de curţile de apel şi de Înalta Curte de Casaţie şi Justiţie, ca instanţe de apel, cu excepţia deciziilor prin care s-a dispus rejudecarea cauzelor.
 (2) Nu pot fi atacate cu recurs în casaţie: 
 a) hotărârile de respingere ca inadmisibilă a cererii de revizuire;
 b) hotărârile de respingere a cererii de redeschidere a procesului penal în cazul judecării în lipsă; 
@@ -4732,7 +4732,7 @@ Declararea recursului în casaţie
 a) procurorul, în ceea ce priveşte latura penală şi latura civilă;
 b) inculpatul, în ceea ce priveşte latura penală şi latura civilă, împotriva hotărârilor prin care s-a dispus condamnarea, renunţarea la aplicarea pedepsei sau amânarea aplicării pedepsei ori încetarea procesului penal;
 c) partea civilă şi partea responsabilă civilmente, în ceea ce priveşte latura civilă, iar referitor la latura penală, în măsura în care soluţia din această latură a influenţat soluţia în latura civilă.
-(2) Inculpatul, partea civilă şi partea responsabilă civilmente pot formula cerere de recurs în casaţie numai prin intermediul unui avocat care poate pune concluzii în faţa Înaltei Curţi de Casaţie şi Justiţie.
+(2) [ABROGAT]Inculpatul, partea civilă şi partea responsabilă civilmente pot formula cerere de recurs în casaţie numai prin intermediul unui avocat care poate pune concluzii în faţa Înaltei Curţi de Casaţie şi Justiţie.[ABROGAT]
 (3) Până la închiderea dezbaterilor la instanţa de recurs, părţile şi procurorul îşi pot retrage recursul în casaţie declarat. Retragerea trebuie să fie făcută personal de parte sau prin mandatar special, iar dacă partea se află în stare de deţinere, printr-o declaraţie atestată sau consemnată într-un proces-verbal de către conducerea locului de deţinere. Declaraţia de retragere se poate face fie la instanţa a cărei hotărâre a fost atacată, fie la instanţa de recurs.
 (4) Reprezentanţii legali pot retrage recursul în casaţie cu respectarea, în ceea ce priveşte latura civilă, a condiţiilor prevăzute de legea civilă. Inculpatul minor nu poate retrage recursul în casaţie declarat personal sau de reprezentantul său legal.
 (5) Recursul în casaţie declarat de procuror poate fi retras de procurorul ierarhic superior.
@@ -4742,10 +4742,10 @@ Articolul 437
 
 Motivarea recursului în casaţie
 (1) Cererea de recurs în casaţie se formulează în scris şi va cuprinde:
-a) numele şi prenumele, domiciliul sau reşedinţa părţii, numele, prenumele şi domiciliul profesional al avocatului sau, după caz, numele şi prenumele procurorului care exercită recursul în casaţie, precum şi organul judiciar din care acesta face parte;
+a) numele şi prenumele, domiciliul sau reşedinţa părţii ori, după caz, numele şi prenumele procurorului care exercită recursul în casaţie, precum şi organul judiciar din care acesta face parte;
 b) indicarea hotărârii care se atacă;
 c) indicarea cazurilor de recurs în casaţie pe care se întemeiază cererea şi motivarea acestora;
-d) semnătura persoanei care exercită recursul în casaţie şi/sau semnătura avocatului.
+d) semnătura persoanei care exercită recursul în casaţie.
 (2) La cerere se anexează toate înscrisurile invocate în motivarea acesteia.
 
 Articolul 438
@@ -4776,16 +4776,18 @@ Procedura de comunicare
 (2) Preşedintele instanţei a cărei hotărâre se atacă ori judecătorul delegat de către acesta va comunică procurorului şi părţilor copii de pe cererea de recurs în casaţie şi celelalte înscrisuri doveditoare, cu menţiunea că se pot depune concluziile scrise în termen de 10 zile de la primirea comunicărilor, la aceeaşi instanţă.
 (3) Nedepunerea de către părţi şi procuror de concluzii scrise nu împiedică judecarea recursului în casaţie.
 (4) În termen de 5 zile de la depunerea concluziilor scrise sau de la expirarea termenului de depunere a acestora, preşedintele instanţei sau judecătorul delegat de către acesta va înainta Înaltei Curţi de Casaţie şi Justiţie dosarul cauzei, cererea de recurs în casaţie, înscrisurile anexate, dovezile de comunicare efectuate, precum şi, după caz, concluziile scrise.
-(4^1) În cazul în care cererea de recurs în casaţie nu este formulată prin intermediul unui avocat care poate pune concluzii în faţa Înaltei Curţi de Casaţie şi Justiţie sau este formulată împotriva unei hotărâri prevăzute la art. 434 alin. (2), preşedintele instanţei sau judecătorul delegat de către acesta restituie părţii, pe cale administrativă, cererea de recurs în casaţie.
+(4^1) În cazul în care cererea de recurs în casaţie este formulată împotriva unei hotărâri prevăzute la art. 434 alin. (2), preşedintele instanţei sau judecătorul delegat de către acesta restituie părţii, pe cale administrativă, cererea de recurs în casaţie.
 (5) În cazul în care nu este îndeplinită procedura de comunicare prevăzută la alin. (2) şi (4) ori dacă aceasta nu este completă, magistratul-asistent de la Înalta Curte de Casaţie şi Justiţie, desemnat cu verificarea îndeplinirii procedurii de comunicare şi de întocmire a raportului referitor la cererea de recurs în casaţie, va îndeplini sau va completa, după caz, procedura.
+(6) În cazul recursurilor în casaţie declarate împotriva deciziilor pronunţate de Secţia penală a Înaltei Curţi de Casaţie şi Justiţie, ca instanţă de apel, procedura de comunicare se realizează la nivelul Secţiei penale a Înaltei Curţi de Casaţie şi Justiţie, iar în cazul recursurilor în casaţie declarate împotriva deciziilor pronunţate de completele de 5 judecători, ca instanţe de apel, procedura de comunicare se realizează la nivelul completelor de 5 judecători.
 
 Articolul 440
 
 Admiterea în principiu
 (1) Admisibilitatea cererii de recurs în casaţie se examinează în camera de consiliu de un complet format din un judecător, după depunerea raportului magistratului-asistent şi atunci când procedura de comunicare este legal îndeplinită, fără citarea părţilor şi fără participarea procurorului.
-(2) Dacă cererea de recurs în casaţie nu este făcută în termenul prevăzut de lege sau dacă nu s-au respectat dispoziţiile art. 434, art. 436 alin. (1), (2) şi (6), art. 437 şi 438 ori dacă cererea este vădit nefondată, instanţa respinge, prin încheiere definitivă, cererea de recurs în casaţie.
+(2) Dacă cererea de recurs în casaţie nu este făcută în termenul prevăzut de lege sau dacă nu s-au respectat dispoziţiile art. 434, art. 436 alin. (1) şi (6), art. 437 şi art. 438, instanţa respinge, prin încheiere definitivă, cererea de recurs în casaţie.
 (3) Dacă cererea de recurs în casaţie a fost retrasă, instanţa ia act de retragere, prin încheiere.
 (4) În cazul în care instanţa constată că cererea îndeplineşte condiţiile prevăzute la art. 434-438, dispune prin încheiere admiterea în principiu a cererii de recurs în casaţie şi trimite cauza în vederea judecării recursului în casaţie.
+(5) În cazul recursurilor în casaţie declarate împotriva deciziilor pronunţate de completele de 5 judecători, ca instanţe de apel, judecătorul care examinează admisibilitatea cererii de recurs în casaţie în condiţiile prevăzute în alin. (1)-(4) trebuie să facă parte dintr-un complet de 5 judecători.
 
 Articolul 441
 
