@@ -144,7 +144,17 @@ b) fapta nu este prevăzută de legea penală ori nu a fost săvârşită cu vin
 c) nu există probe că o persoană a săvârşit infracţiunea;
 d) există o cauză justificativă sau de neimputabilitate;
 e) lipseşte plângerea prealabilă, autorizarea sau sesizarea organului competent ori o altă condiţie prevăzută de lege, necesară pentru punerea în mişcare a acţiunii penale;
-f) a intervenit amnistia sau prescripţia, decesul suspectului ori al inculpatului persoană fizică sau s-a dispus radierea suspectului ori inculpatului persoană juridică;
+f) a intervenit amnistia sau prescripţia, decesul suspectului ori al inculpatului persoană fizică sau s-a dispus radierea suspectului ori inculpatului persoană juridică; (*)
+
+	Notă
+	──────────
+
+	(*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 586 din 13 septembrie 2016, publicată în MONITORUL OFICIAL nr. 1.001 din 13 decembrie 2016, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 25 alin. (5) din Codul de procedură penală, cu referire la dispoziţiile art. 16 alin. (1) lit. f) din Codul de procedură penală, constatându-se că acestea sunt neconstituţionale în ceea ce priveşte lăsarea ca nesoluţionată a acţiunii civile de către instanţa penală, în cazul încetării procesului penal, ca urmare a intervenirii prescripţiei răspunderii penale.
+
+	Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+	Prin urmare, în intervalul 13 decembrie 2016-26 ianuarie 2017, dispoziţiile art. 25 alin. (5) din Codul de procedură penală, cu referire la dispoziţiile art. 16 alin. (1) lit. f) din Codul de procedură penală, în ceea ce priveşte lăsarea ca nesoluţionată a acţiunii civile de către instanţa penală, în cazul încetării procesului penal, ca urmare a intervenirii prescripţiei răspunderii penale, au fost suspendate de drept, încetându-şi efectele juridice în data de 27 ianuarie 2017, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.
+
 g) a fost retrasă plângerea prealabilă, în cazul infracţiunilor pentru care retragerea acesteia înlătură răspunderea penală, a intervenit împăcarea ori a fost încheiat un acord de mediere în condiţiile legii;
 h) există o cauză de nepedepsire prevăzută de lege;
 i) există autoritate de lucru judecat;
