@@ -2483,7 +2483,8 @@ Articolul 269
 Favorizarea făptuitorului
 (1) Ajutorul dat făptuitorului în scopul împiedicării sau îngreunării cercetărilor într-o cauză penală, tragerii la răspundere penală, executării unei pedepse sau măsuri privative de libertate se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
 (2) Pedeapsa aplicată favorizatorului nu poate fi mai mare decât pedeapsa prevăzută de lege pentru fapta săvârşită de autor.
-(3) Favorizarea săvârşită de un membru de familie nu se pedepseşte.
+(3) Favorizarea săvârşită de un membru al familiei sau afin până la gradul II nu se pedepseşte.
+(4) Dispoziţiile alin. (1) nu se aplică în cazul emiterii, aprobării sau adoptării actelor normative.
 
 Articolul 270
 
@@ -2710,14 +2711,17 @@ Purtarea abuzivă
 
 Articolul 297
 
-Abuzul în serviciu
-(1) Fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, nu îndeplineşte un act sau îl îndeplineşte în mod defectuos şi prin aceasta cauzează o pagubă ori o vătămare a drepturilor sau intereselor legitime ale unei persoane fizice sau ale unei persoane juridice se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării dreptului de a ocupa o funcţie publică.
-(2) Cu aceeaşi pedeapsă se sancţionează şi fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, îngrădeşte exercitarea unui drept al unei persoane ori creează pentru aceasta o situaţie de inferioritate pe temei de rasă, naţionalitate, origine etnică, limbă, religie, sex, orientare sexuală, apartenenţă politică, avere, vârstă, dizabilitate, boală cronică necontagioasă sau infecţie HIV/SIDA.
+Abuzul în serviciu 
+(1) Fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, cu ştiinţă, îndeplineşte un act prin încălcarea unor dispoziţii exprese dintr-o lege, o ordonanţă sau o ordonanţă de urgenţă a Guvernului sau nu îndeplineşte un act prevăzut de dispoziţiile exprese dintr-o lege, o ordonanţă sau o ordonanţă de urgenţă a Guvernului şi prin aceasta cauzează o pagubă materială mai mare de 200.000 lei ori o vătămare gravă, certă şi efectivă a drepturilor sau intereselor legitime ale unei persoane fizice sau juridice, astfel cum sunt prevăzute şi garantate de legile în vigoare, se pedepseşte cu închisoare de la 6 luni la 3 ani sau cu amendă. 
+(2) Fapta funcţionarului public care, în exercitarea serviciului, îngrădeşte exercitarea unui drept al unei persoane ori creează pentru aceasta o situaţie de inferioritate pe temei de rasă, naţionalitate, origine etnică, limbă, religie, sex, orientare sexuală, apartenenţă politică, avere, vârstă, dizabilitate, boală cronică necontagioasă sau infecţie HIV/SIDA se pedepseşte cu închisoare de la o lună la un an sau cu amendă. 
+(3) Dispoziţiile alin. (1) şi (2) nu se aplică în cazul emiterii, aprobării sau adoptării actelor normative.
 
 Articolul 298
 
+[ABROGAT]
 Neglijenţa în serviciu
 Încălcarea din culpă de către un funcţionar public a unei îndatoriri de serviciu, prin neîndeplinirea acesteia sau prin îndeplinirea ei defectuoasă, dacă prin aceasta se cauzează o pagubă ori o vătămare a drepturilor sau intereselor legitime ale unei persoane fizice sau ale unei persoane juridice, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
+[ABROGAT]
 
 Articolul 299
 
@@ -2733,7 +2737,7 @@ Fapta funcţionarului public care, în timpul serviciului, îndeplineşte un act
 Articolul 301
 
 Conflictul de interese
-(1) Fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, a îndeplinit un act ori a participat la luarea unei decizii prin care s-a obţinut, direct sau indirect, un folos patrimonial, pentru sine, pentru soţul său, pentru o rudă ori pentru un afin până la gradul II inclusiv sau pentru o altă persoană cu care s-a aflat în raporturi comerciale ori de muncă în ultimii 5 ani sau din partea căreia a beneficiat ori beneficiază de foloase de orice natură, se pedepseşte cu închisoarea de la unu la 5 ani şi interzicerea exercitării dreptului de a ocupa o funcţie publică.
+(1) Fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, a îndeplinit un act ori a participat la luarea unei decizii prin care s-au obţinut, direct sau indirect, foloase patrimoniale, pentru sine, pentru soţul său, pentru o rudă ori pentru un afin până la gradul II inclusiv se pedepseşte cu închisoarea de la unu la 5 ani şi interzicerea exercitării dreptului de a ocupa o funcţie publică.
 (2) Dispoziţiile alin. (1) nu se aplică în cazul emiterii, aprobării sau adoptării actelor normative.
 
 Articolul 302
@@ -2785,7 +2789,7 @@ Deturnarea de fonduri
 Articolul 308
 
 Infracţiuni de corupţie şi de serviciu comise de alte persoane
-(1) Dispoziţiile art. 289-292 şi ale art. 297-301 privitoare la funcţionarii publici se aplică în mod corespunzător şi faptelor săvârşite de către sau în legătură cu persoanele care exercită, permanent sau temporar, cu sau fără o remuneraţie, o însărcinare de orice natură în serviciul unei persoane fizice dintre cele prevăzute în art. 175 alin. (2) sau în cadrul oricărei persoane juridice.
+(1) Dispoziţiile art. 289-292, 295, 297, 299, 300 şi 304 privitoare la funcţionarii publici se aplică în mod corespunzător şi faptelor săvârşite de către sau în legătură cu persoanele care exercită, permanent ori temporar, cu sau fără o remuneraţie, o însărcinare de orice natură în serviciul unei persoane fizice dintre cele prevăzute la art. 175 alin. (2) ori în cadrul oricărei persoane juridice.
 (2) În acest caz, limitele speciale ale pedepsei se reduc cu o treime.
 
 Articolul 309
@@ -2983,9 +2987,15 @@ Conducerea unui vehicul fără permis de conducere
 Articolul 336
 
 Conducerea unui vehicul sub influenţa alcoolului sau a altor substanţe
-(1) Conducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere de către o persoană care, la momentul prelevării mostrelor biologice, are o îmbibaţie alcoolică de peste 0,80 g/l alcool pur în sânge se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
+(1) Conducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere de către o persoană care are o îmbibaţie alcoolică de peste 0,80 g/l alcool pur în sânge se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
 (2) Cu aceeaşi pedeapsă se sancţionează şi persoana, aflată sub influenţa unor substanţe psihoactive, care conduce un vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere.
 (3) Dacă persoana aflată în una dintre situaţiile prevăzute în alin. (1) şi alin. (2) efectuează transport public de persoane, transport de substanţe sau produse periculoase ori se află în procesul de instruire practică a unor persoane pentru obţinerea permisului de conducere sau în timpul desfăşurării probelor practice ale examenului pentru obţinerea permisului de conducere, pedeapsa este închisoarea de la 2 la 7 ani.
+
+Articolul 336^1
+
+Consumul de alcool sau de alte substanţe ulterior producerii unui accident de circulaţie 
+(1) Fapta conducătorului unui vehicul sau a instructorului auto, aflat în procesul de instruire, ori a examinatorului autorităţii competente, aflat în timpul desfăşurării probelor practice ale examenului pentru obţinerea permisului de conducere, de a consuma alcool, produse ori substanţe stupefiante sau medicamente cu efecte similare acestora, după producerea unui accident de circulaţie care a avut ca rezultat uciderea sau vătămarea integrităţii corporale ori a sănătăţii uneia sau mai multor persoane, până la recoltarea probelor biologice, se pedepseşte cu închisoare de la unu la 5 ani. 
+(2) Nu constituie infracţiune consumul de medicamente cu efecte similare produselor sau substanţelor stupefiante, după producerea accidentului de circulaţie şi până la sosirea poliţiei la faţa locului, dacă acestea sunt administrate de personal medical autorizat, în cazul în care acestea sunt impuse de starea de sănătate sau de vătămarea corporală a conducătorului auto.
 
 Articolul 337
 
